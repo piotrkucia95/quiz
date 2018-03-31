@@ -1,0 +1,2420 @@
+1. Która z faz jest najtwardsza?
+a) Ferryt
+b) Cementyt
+c) Austenit
+b
+2. Dlaczego stale niestopowe hartujemy w wodzie?
+a) Ponieważ cechują się małą hartownością
+b) Ponieważ woda jest tanim ośrodkiem
+c) Ponieważ woda jest nieszkodliwa dla środowiska
+a
+3. Co powinieneś zrobić aby zwiększyć odporność na ścieranie stali:
+a) zwiększyć udział austenitu szczątkowego
+b) zwiększyć udział ferrytu
+c) zwiększyć udział węglików
+c
+4. Dlaczego ciała stałe rozszerzają się ze wzrostem temperatury:
+a) ponieważ ulegają przemianom fazowym
+b) ze względu na zamianę struktury elektronowej
+c) wynika to z asymetrii drań atomów wokół położeń równowagi
+c
+5. Jaka jest orientacja wektora Burgersa względem linii dyslokacji w dyslokacji śrubowej:
+a) prostopadła
+b) pod kątem 45 °
+c) równoległa
+c
+6. Jakiego typu defektem jest błąd ułożenia:
+a) powierzchniowym
+b) liniowym
+c) punktowym
+a
+7. Jaki jest kąt dezorientacji granic ziaren:
+a) duży (> 15 °)
+b) mały
+c) bardzo mały
+a
+8. Wskaż mechanizmy odkształcenia plastycznego:
+a) poślizg i bliźniakowanie
+b) odkształcenie na zimno i odkształcenie na gorąco
+c) kucie, walcowanie i ciągnienie
+a
+9. Odkształcenie plastyczne na zimno powoduje:
+a) wzrost twardości, wytrzymałości, oporności elektrycznej
+b) wzrost plastyczności, odporności na pękanie, odporności na korozję
+c) zmniejszenie koercji, zmniejszenie oporności elektrycznej
+a
+10. Zgniot krytyczny po rekrystalizacji wywołuje:
+a) bardzo słaby rozrost ziaren
+b) silny wzrost plastyczności
+c) bardzo silny rozrost ziaren
+c
+11. Przyczyną starzenia po zgniocie są:
+a) atomy międzywęzłowe
+b) tlenki tworzące się na powierzchni materiału
+c) wtrącenie niemetaliczne
+a
+12. W jakich warunkach faza pozostaje stabilna:
+a) gdy ma mniejszą energię swobodną
+b) gdy ma energię swobodną równą z innymi fazami układu
+c) gdy ma największą energię swobodną
+a
+13. Jaka jest relacja między temperaturą równowagi Te a temperaturą krystalizacji Tk:
+a) Te ≥ Tk
+b) Te < Tk
+c) Te « Tk
+a
+14. Gdy zarodek krystalizacji osiągnie wielkość krytyczną to dalszemu jego wzrostowi towarzyszy:
+a) obniżenie energii swobodnej
+b) energia swobodna nie ulega zmianie
+c) zwiększenie energii swobodnej
+a
+15. Ze wzrostem stopnia przechłodzenia cieczy szybkości zarodkowania i szybkość wzrostu zarodków:
+a) rośną
+b) nie ulegają zmianie
+c) maleją
+a
+16. Przy ściankach wlewnicy lub ściankach krystalizatora tworzy się warstwa kryształów:
+a) grubych, równoosiowych
+b) zamrożonych
+c) kolumnowych
+b
+17. Ile krzemu zawierają stale nieuspokojone:
+a) ≈ 0,2 %
+b) ≈ 0,01 %
+c) ≈ 0,6 %
+b
+18. Które stopy odlewamy do wlewnic zbieżnych ku stopie wlewka:
+a) półuspokojone
+b) uspokojone
+c) nieuspokojone
+b
+19. Wytwarzanie z cieczy szkła metalicznego wymaga:
+a) bardzo dużej szybkości oziębiania
+b) studzenia z piecem
+c) bardzo małej szybkości chłodzenia
+a
+20. Który z poniższych wzorów opisuję regułę faz Gibasa przy stałym ciśnieniu:
+a) s = n – f + 1
+b) s = n – 2f + 1
+c) s = 2n – f + 1
+a
+21. Na czym polega przemiana eutektyczna przy chłodzeniu:
+a) przy stałej temperaturze z fazy stałej tworzą się nowe fazy stałe
+b) przy stałej temperaturze z cieczy tworzą się fazy stałe
+c) przy stałej temperaturze tworzy się faza stała i ciecz o innym składzie
+b
+22. Na czym polega przemiana perytektyczna przy chłodzeniu:
+a) przy stałej temperaturze z cieczy i fazy stałej tworzy się nowa ciecz
+b) przy stałej temperaturze z cieczy i fazy stałej tworzy się nowa faza stała
+c) przy stałej temperaturze z cieczy tworzy się nowa ciecz i faza stała
+b
+23. Na czym polega przemiana eutektoidalna przy chłodzeniu:
+a) przy stałej temperaturze z fazy stałej tworzą się nowe fazy stałe
+b) przy stałej temperaturze z fazy ciekłej tworzą się nowa faza stała i ciecz
+c) przy stałej temperaturze z fazy stałej tworzy się nowa faza stała i ciecz
+a
+24. Austenit to:
+a) roztwór stały pierwiastka w żelazie α
+b) roztwór stały pierwiastka w żelazie γ
+c) roztwór stały pierwiastka w żelazie ε
+b
+25. Ferryt to:
+a) roztwór stały pierwiastka w żelazie γ
+b) roztwór stały pierwiastka w żelazie α
+c) roztwór stały pierwiastka w żelazie ε
+b
+26. Ledeburyt to:
+a) mieszanina eutektyczna austenitu i ferrytu
+b) mieszanina eutektyczna austenitu i cementytu
+c) mieszanina eutektyczna austenitu i perlitu
+b
+27. Celem wyżarzania normalizującego jest:
+a) uzyskanie dużej twardości
+b) homogenizacja składu chemicznego
+c) uzyskanie jednorodnej struktury drobnoziarnistej
+c
+28. Od jakiej temperatury hartujemy stale nadeutektoidalne:
+a) z zakresu 30 ÷ 50 °C powyżej temperatury Ac1f
+b) z zakresu 30 ÷ 50 °C poniżej temperatury Ac1s
+c) z zakresu 30 ÷ 50 °C powyżej temperatury Ac3
+a
+29. Kiedy hartowność stali jest wystarczająca:
+a) gdy na przekroju miarodajnym tworzy się martenzyt i bainit dolny
+b) gdy na przekroju miarodajnym tworzy się ledeburyt
+c) gdy na przekroju miarodajnym tworzy się i bainit i perlit
+a
+30. Brązy to stopy Cu z:
+a) Sn, Al, Si, Pb, Be
+b) Ni
+c) Zn
+a
+31. Które metale zaliczamy do grupy metali lekkich:
+a) Fe, Cu, Ni, Co
+b) Al, Ti, Be, Mg
+c) Au, Ag, Pt, Ir
+b
+32. Który z metali zużywany jest w największych ilościach:
+a) Cu
+b) Fe
+c) Al
+b
+33. Który z metali w stanie wolnym jest najbardziej rakotwórczy:
+a) Mn
+b) Ni
+c) Fe
+b
+34. Symbolem głównym stali konstrukcyjnych jest litera:
+a) K
+b) S
+c) Y
+b
+35. Stal C45 jest stalą:
+a) niestopową, zawierającą ok. 0,45 % C
+b) stopową, zawierającą ok. 0,45 % C
+c) nierdzewiejącą, zawierającą ok. 0,45 % C
+a
+36. Stal 28Mn6 jest gatunkiem:
+a) stopowym nierdzewiejącym
+b) niestopowym
+c) stopowym manganowym
+b
+37. Stale stopowe (bez stali szybkotnących) zawierające przynajmniej jeden pierwiastek stopowy w ilości ≥5 % mają na początku znaku literę:
+a) X
+b) Z
+c) Y
+a
+38. Stale szybkotnące mają na początku znaku litery:
+a) S
+b) HS
+c) SZ
+b
+39. Co oznaczają litery JR w stali oznaczonej S235JR:
+a) wymaganą pracę złamania 27J przy temperaturze pokojowej
+b) wymaganą pracę złamania 40J przy temperaturze 0 °C
+c) wymaganą pracę złamania 60J przy temperaturze -20 °C
+a
+40. Wyroby stalowe ocynkowane oznaczamy dodatkowo symbolem:
+a) +C
+b) +Z
+c) +CU
+b
+41. Równoważnik węgla CEV wskazuje na możliwość zastosowania stali do:
+a) spawania
+b) hartowania
+c) przeróbki plastycznej
+a
+42. Co oznacza symbol stali S355J2:
+a) stal szybkotnącą o twardości co najmniej 355HBW, jakościową, dwukrotnie odpuszczoną
+b) stal konstrukcyjną o granicy plastyczności min. 355 MPa, której praca złamania jest równa co najmniej 27J przy -20 °C
+c) stal spawalną o twardości co najmniej 355HBW, uspokojoną aluminium, którego zawartość wynosi średnio 2 %
+b
+43. Co oznacza symbol stali P265NB:
+a) stal z podwyższoną zawartością fosforu o wytrzymałości 265 MPa, zawierającą azot i bizmut
+b) stal pracującą pod ciśnieniem o minimalnej granicy plastyczności 265 MPa, wyżarzoną normalizująco, przeznaczoną na butle do gazów
+c) stal perlityczną o twardości 265HBW z niklem i borem
+b
+44. Na co stosuje się stale w gatunku L275:
+a) na rury przewodowe
+b) na liny zwykłej jakości
+c) na liny do głębokich kopalń
+a
+45. Stal RB500W jest przeznaczona na:
+a) szyny kolejowe typu B odporne na korozję atmosferyczną
+b) pręty żebrowane do zbrojenia betonu
+c) rury przewodowe (spawalne)
+b
+46. Stal R260 jest stalą na:
+a) rury przewodowe o granicy plastyczności co najmniej 260 MPa
+b) szyny kolejowe o twardości 260 HBW
+c) pręty żebrowane o granicy plastyczności co najmniej 260 MPa
+b
+47. Co oznaczają kolejne symbole w stali HC180Y:
+a) stal o podwyższonej granicy plastyczności, walcowaną na zimno o minimalnej granicy plastyczności 180 MPa, bez atomów międzywęzłowych
+b) stal chromową o zwiększonej zawartości węgla i twardości 180 HBW, półuspokojoną
+c) stal w pełni odwodorowaną, chromową, o granicy plastyczności min. 180 MPa
+a
+48. Który z następujących gatunków stali nadaje się na karoserię samochodów:
+a) DC06
+b) E275
+c) B500SP
+a
+49. Jaka jest średnia zawartość molibdenu w stali 20MoCr4:
+a) 0,20 %
+b) 0,40 %
+c) 4,00 %
+b
+50. Jaki jest stopień uspokojenia stali C60:
+a) półuspokojona
+b) nieuspokojona
+c) uspokojona
+c
+51. Stale do azotowania odpuszczane są:
+a) podczas azotowania
+b) przed azotowaniem
+c) po azotowaniu
+b
+52. Stale sprężynowe powinny zawierać zwiększoną zawartość:
+a) Si
+b) P
+c) S
+a
+53. Który z niżej wymienionych gatunków jest stalą narzędziową niestopową do pracy na zimno:
+a) C45E
+b) C45R
+c) C45U
+c
+54. Jakie jest zastosowanie stali w gatunku X210Cr12:
+a) na narzędzia do pracy na gorąco
+b) na rury do głębokich kopalń
+c) na narzędzia do pracy na zimno
+c
+55. Stal w gatunku X38CrMoV5-3 ze względu na zawartość średnią węgla ok. 0,38 %, chromu ok. 5,00 %, molibdenu ok. 3,00 % zaliczamy do grupy stali:
+a) narzędziowych do pracy na gorąco
+b) szybkotnących
+c) narzędziowych do pracy na zimno
+a
+57. Modyfikację siluminów prowadzi się celem:
+a) zwiększenia własności mechanicznych
+b) zwiększenie oporności właściwej stopu
+c) zwiększenie odporności korozyjnej stopu
+a
+58. Mały współczynnik rozszerzalności linowej α stopu o nazwie Invar (Fe + 36 ÷ 52  Ni) wynika z:
+a) skurczu wywołanego odpuszczaniem martenzytu
+b) skurczu związanego z wydzielaniem fazy γ’
+c) nakładanie się skurczu magnetostrykcyjnego z rozszerzalnością termiczną
+c
+59. Stopy żarowytrzymałe niklu typu inconel są umacniane:
+a) fazą δ
+b) fazą γ’ (Ni3TiAl)
+c) fazą Lavesa
+b
+60. Na co stosuje się stopy tytanu:
+a) konstrukcje hal fabrycznych, narzędzia skrawające
+b) walce hutnicze, ciągadła dwudzielne, prowadnice pasma
+c) na endoprotezy, stopy z pamięcią kształtu, narzędzia chirurgiczne
+c
+61. Czy stale konstrukcyjne po winny być spawalne?
+a) tak, ponieważ większość konstrukcji jest spawana
+b) nie, ponieważ pracują w betonie
+c) nie, ponieważ większość konstrukcji się nituje
+a
+62. Jakie klasy jakościowe stali przewidują obecnie normy europejskie?
+a) jakościowe i specjalne
+b) podstawowe i jakościowe
+c) podstawowe i specjalne
+a
+63. Która faza jest niezbędna w stalach na narzędzia szybkotnące?
+a) węgliki
+b) martenzyt
+c) austenit szczątkowy
+a
+64. Dlaczego endoprotezy nie powinny zawierać niklu?
+a) ponieważ nikiel jest pierwiastkiem alergizującym i rakotwórczym
+b) ponieważ nikiel ma własności ferromagnetyczne
+c) ponieważ nikiel jest pierwiastkiem bardzo drogim
+a
+65. Blacha do pokrywania dachów jest:
+a) cynkowana
+b) miedziowana
+c) cynowana
+a
+66. Podaj typowy przykład materiału funkcjonalnego, który jest wykorzystywany w nowoczesnej aparaturze badawczej stosowanej w inżynierii materiałowej.
+a) Materiały piezoelektryczne. Np.: ZnO, kwarc, turmalin.
+b) Stale specjalne, materiały magnetyczne, materiały optyczne.
+c) Materiały elektroniczne, magnetyczne, amorficzne, biomateriały.
+a
+67. Jaki rodzaj materiałów oznacza skrót CNT?
+a) CNT nanomateriały węglowe.
+b) CNT (ang. Carbon Nanotubes) nanorurki węglowe.
+c) CNT (węglowa) powłoka grafenowa.
+b
+68. Czy materiały funkcjonalne zmieniają swoje własności pod wpływem przyłożonego do takich materiałów zewnętrznego pola mechanicznego, elektrycznego lub magnetycznego?
+a) Tak, ale tylko dla materiałów poddanych działaniu pola elektrycznego.
+b) Tak. Takie zachowanie materiału identyfikuje materiały funkcjonalne.
+c) Tak, ale tylko dla materiałów poddanych działaniu pola mechanicznego.
+b
+69. Podaj ogólne przykłady materiałów funkcjonalnych z zakresu nanotechnologii:
+a) Nanowydzielenia, nanocząstki, warstwy, włókna, kompozyty.
+b) Włókna, warstwy, stopy specjalne.
+c) Nanomateriały elektroniczne, nanomateriały katalityczne, nanomateriały magnetyczne, nanomateriały optyczne. Do tej grupy zaliczamy również: nanogeneratory i nanoroboty.
+c
+70. W jakich materiałach występuje efekt piezoelektryczny?
+a) W kryształach soli kuchennej.
+b) W stopach srebra, złota, miedzi.
+c) W kryształach jonowych (kwarc, turmalin, blenda cynkowa, nanodruty ZnO).
+c
+71. Napisz równanie Halla-Petcha (HP). Czy równanie HP obowiązuje w skali makro, mikro i nano. Innymi słowy, czy równanie HP można stosować w przypadku nanometali lub nanostopów ?
+a) Równanie H-P: y = o + ky d-1/2. Tak. Tak.
+b) Równanie H-P: y = o + ky d. Tak. Nie.
+c) Równanie H-P: y = o + ky d 1/2. Tak. Tak.
+a
+72. W jakim mikroskopie badawczym zastosowano materiał funkcjonalny, który umożliwia bezpośrednie obrazowanie pojedynczych atomów?
+a) W transmisyjnym mikroskopie elektronowym TEM. Mikroskop TEM umożliwia bezpośrednią obserwację atomów.
+b) W skanującym mikroskopie tunelowym STM. Mikroskop STM umożliwia bezpośrednią obserwację powierzchni materiałów przewodzących z rozdzielczością na poziomie atomowym.
+c) W skaningowym mikroskopie elektronowym SEM. Mikroskop SEM umożliwia bezpośrednią obserwację atomów na powierzchni materiałów.
+b
+73. Jaki znasz najmniejszy atom występujący w przyrodzie i jaki ma on rozmiar ?
+a) Najmniejszym atomem jest atom żelaza; ok. 0,25 nm
+b) Najmniejszym atomem jest atom wodoru; ok. 0,1 nm
+c) Najmniejszym atomem jest atom węgla; ok. 0,1 nm
+b
+74. Jaka technika badawcza umożliwia bezpośrednie dokładne obrazowanie pojedynczych atomów? Podaj pełną nazwę i akronim tej techniki badawczej.
+a) Skaningowy mikroskop tunelowy (Scanning Tunneling Microscope). Akronim: STM
+b) Skaningowy mikroskop atomowy (Scanning Atomic Transmission Microscope). Akronim: STM
+c) Skaningowy mikroskop elektronowy (Scanning Elektron Microscope). Akronim: SEM
+a
+75. Wymień metody badawcze mikroskopii świetlnej stosowane do badań materiałów funkcjonalnych oraz materiałów klasycznych.
+a) Mikroskopia świetlna – LM, Jasne pole – BF, Ciemne pole – DF, Kontrast Nomarskiego – DIC, Obserwacje w świetle spolaryzowanym – POL
+b) Mikroskopia świetlna – LM (Light Microscope), Jasne odbicie – BF, Ciemne odbicie – DF, Kontrast – DIC, Obiektyw spolaryzowany – POL
+c) Mikroskopia optyczna, Jasne pole obiektywu – BF, Ciemne pole obiektywu – DF, Kontrast Nomarskiego – DIC, Obserwacje w świetle spolaryzowanym – POL
+a
+76. Podaj rozdzielczość skaningowego mikroskopu tunelowego STM i mikroskopu świetlnego LM w przypadku badań materiałów funkcjonalnych ?
+a) LM: ok. 1 mikrometr. STM: 1. Od 0,1 mikrometra w pionie. 2. Rozdzielczość atomowa w płaszczyźnie poziomej.
+b) LM: ok. 0,5 nanometra. STM: 1. Od 0,1 nm w pionie. 2. Jeden nanometr w płaszczyźnie poziomej.
+c) LM: ok. 0,5 mikrometra. STM: 1. Od 0,1 nm w pionie. 2. Rozdzielczość atomowa w płaszczyźnie poziomej. 
+c
+77. Zdefiniuj w sposób ogólny materiały funkcjonalne:
+a) Materiały funkcjonalne to materiały o specyficznych własnościach (materiały specjalne) pod warunkiem, że spełniają ściśle określoną funkcję (specjalne zastosowanie) np.: materiały odporne na ścieranie, korozję, wysoką temperaturę, materiały kriogeniczne, itp.
+b) Materiały funkcjonalne to takie materiały, które po wpływem działania zewnętrznego pola F (np. pola mechanicznego M, magnetycznego H, elektromagnetyczngo E) uzyskują nowe własności (zdefiniowane w ramach jednego z pól M, H, E) lub takie materiały, których własności w istotny sposób różnią się od własności tego materiału w skali makro (tzn. wyprodukowanego metodami klasycznymi).
+c) Materiały optyczne, magnetyczne i elektroniczne o unikalnych własnościach uzyskiwanych dzięki zastosowaniu np. bardzo dużego odkształcenia plastycznego, obróbki cieplno-mechanicznej lub przyłożenia zewnętrznego pola (elektrycznego, magnetycznego lub mechanicznego).
+b
+78. Podaj przykład materiału stosowanego na nanogeneratory:
+a) Stale elektrotechniczne i stopy Fe-Si w postaci drutów.
+b) a) Nanodruty ZnO. Średnica nanodrutu ZnO wynosi od ok. 300 do 1000 nm. Typowa długość pojedynczego nanodrutu: od 1 do 3 mikrometrów.
+c) Nanodruty ZnO (tworzące las nanodrutów ZnO). Średnica nanodrutu ZnO (który jest materiałem piezoelektrycznym) wynosi od ok. 30 do 100 nm. Typowa długość pojedynczego nanodrutu: od 1 do 3 mikrometrów.
+c
+79. Wymień trzy dowolne nanomateriały funkcjonalne i podaj przykład nanomateriału stukturalnego.
+a) NANOMATERIAŁY FUNKCJONALNE: nanomateriały elektroniczne, nanomateriały katalityczne, nanomateriały magnetyczne, nanomateriały optyczne. NANOMATERIAŁY STRUKTURALNE: Nanowłókna, nanometale, nanoproszki, nanokompozyty, nanomateriały porowate.
+b) NANOMATERIAŁY FUNKCJONALNE: Nanowłókna, nanometale, nanoproszki, nanokompozyty, nanomateriały porowate. NANOMATERIAŁY STRUKTURALNE: nanomateriały elektroniczne, nanomateriały katalityczne, nanomateriały magnetyczne, nanomateriały optyczne.
+c) a) NANOMATERIAŁY FUNKCJONALNE: nanometale, nanostale (również ze stali austenitycznej), nanowarstwy. NANOMATERIAŁY STRUKTURALNE: Nanostale, ZnO, nanodruty, nanowłókna, nanokompozyty, nanomateriały porowate.
+a
+80. Wymień typowe własności nanowłókien.
+a) - Wielokrotnie większa wytrzymałość na zginanie i rozciąganie. - Chłonność wilgoci. - Doskonała izolacyjność termiczna. Typowa metoda produkcji nanowłókien to tzw. elektroprzędzenie.
+b) - Bardzo wysoka twardość przy dużej gęstości. - Bardzo dobra chłonność wilgoci. - Doskonała izolacyjność termiczna. Typowa metoda produkcji nanowłókien to tzw. elektroprzędzenie.
+c) - Bardzo wysoka twardość przy niskiej gęstości. - Bardzo dobra chłonność wilgoci. - Doskonała izolacyjność termiczna.
+a
+81. Podaj atrybut wielkości dla nanowłókien.
+a) Średnica nanowłókna jest większa od 1 mikrometra i mniejsza niż 100 mikrometrów.
+b) Średnica nanowłókna jest większa od 1 nm i mniejsza niż 100 nm.
+c) Średnica nanowłókna jest większa od 1 nm i mniejsza niż 100 nm. Długość powyżej 1000 mikrometrów.
+b
+82. W jakich materiałach występuje efekt piezoelektryczny?
+a) W kryształach jonowych, które mają jedną lub kilka osi biegunowych oraz w kryształach jonowych, które nie mają środka symetrii (np. kwarc, turmalin)
+b) W kryształach jonowych o strukturze regularnej (np. kwarc, turmalin).
+c) W materiałach krystalicznych (metale i stopy) oraz w stopach amorficznych.
+a
+83. W jakich materiałach występuje odwrotny efekt piezoelektryczny?
+a) W materiałach krystalicznych i materiałach amorficznych, które nie mają środka symetrii.
+b) W tych samych materiałach w których występuje prosty efekt piezoelektryczny tzn. kryształach jonowych, które mają jedną lub kilka osi biegunowych oraz w kryształach jonowych, które nie mają środka symetrii (np. kwarc, turmalin, blenda cynkowa).
+c) We wszystkich kryształach jonowych.
+b
+84. Jaka jest zasada działania nanogeneratora ?
+a) Zasada działania nanogeneratora polega na możliwości wytwarzania prądu o niskim napięciu (lub natężeniu) w zakresie nano (nV, nA).
+b) Zasada działania nanogeneratora polega zamianie w skali nano dostarczonej do materiału energii elektrycznej na bardzo małe przemieszczenia w skali nano (rzędu jednego nanometra).
+c) Zasada działania nanogeneratora polega na zamianie w skali nano dostarczonej do materiału energii mechanicznej (pole M) na energię elektryczną (pole E). Typowym przykładem nanogeneratora jest układ nanodrutów ZnO stosowany do wytwarzania prądu celem zasilania baterii przenośnych urządzeń elektronicznych. Nanodruty ZnO są piezoelektrykami o średnicy od 30 do 100 nm i długości od 1 do 3 m.
+c
+85. W jakim celu stosujemy specjalne techniki odkształcania materiałów, jak np. ECAP (przeciskanie materiału przez kanał kątowy) lub wyciskanie hydrostatyczne ?
+a) Celem stosowania tych technik jest uzyskanie w materiale bardzo drobnego ziarna, którego wielkość może być mniejsza od 100 nm. Ziarna nanometryczne uzyskuje się po kilku operacjach przeciskania lub wyciskania.
+b) Jest to precyzyjna metoda formowania trudno odkształcalnych materiałów o drobnym ziarnie (poniżej 100 mikrometrów), co uzyskuje się po kilku operacjach przeciskania lub wyciskania.
+c) Celem stosowania tych technik jest uzyskanie specjalnego kształtu materiału o bardzo drobnym ziarnie. Ziarna nanometryczne uzyskuje się po kilku operacjach przeciskania lub wyciskania.
+a
+86. Bakelit - najstarsze syntetyczne tworzywo sztuczne jest otrzymywane w oparciu o żywicę:
+a) melaminową, należącą do grupy aminoplastów, produktów polikondensacji formaldehydu z melaminą
+b) fenolowo-formaldehydową powstają w wyniku reakcji hetero polikondensacji fenolu z formaldehydem w środowisku zasadowym: (C6H5)-OH + n HCHO → [-CH2- (C6H5)(OH)-]n + n H2O
+c) mocznikowo-formaldehydową powstającą w wyniku reakcji polikondensacji mocznika z formaldehydem w środowisku zasadowym: n H2N-CO-NH2 + n HCHO → [-CH2-NH-CO-NH-]n + n H2O
+b
+87. Do jakiej grupy polimerów należy żywica fenolowo-formaldehydowa?
+a) Fenoplasty
+b) Aminoplasty
+c) Poliamidy
+a
+88. Do jakiej grupy polimerów należy żywica melaminowa?
+a) Fenoplasty
+b) Aminoplasty
+c) Poliestry
+b
+89. Jaki jest wzór chemiczny polipropylenu?
+a) -[CH2-CH2]n
+b) -[CH2-CH(CH3)]n
+c) -[CH2-CHCl]n-
+b
+90. Co oznacza symbol PTFE?
+a) Policzterofluoroetylen
+b) Poliformaldehyd
+c) Polimetylopenten
+a
+91. Co oznacza symbol PVC?
+a) Polichlorek winylu
+b) Polichlorek winylidenu
+c) Polioctan winylu
+a
+92. Czy polietylen jest:
+a) Duroplastem?
+b) Polikondensatem?
+c) Termoplastem?
+c
+93. Polimer o wzorze strukturalnym -[-CH2-CH=CH-CH2-]- to:
+a) Polibuten
+b) Polibutylen
+c) Polibutadien
+c
+94. Polimer o wzorze strukturalnym -[CH2-C(CH3)=CH-CH2]- to:
+a) 1,4-poliizopren
+b) Polibutylen
+c) Polibutadien
+a
+95. Czy polimery, które posiadają wiązania amidowe -C(O)-NHw swoich głównych łańcuchach to:
+a) Poliolefiny
+b) Poliamidy
+c) Poliestry
+b
+96. Przez: polikondensację dikwasów (np. adypinowego HOOC-(CH2)4-COOH) z diaminami (np. heksametylenodiaminą NH2(CH2)6NH2 ) – otrzymuje się:
+a) Poliestry
+b) Poliamidy
+c) Poliolefiny
+b
+97. Poliamidem aromatycznym otrzymywanym w wyniku reakcji polikondensacji chlorowodorków kwasów dikarboksylowych z aminami aromatycznymi jest:
+a) Bakelit
+b) Kevlar
+c) Teflon
+b
+98. Poli(tereftalan etylenu), PET, (C10H8O4)n - polimer z grupy poliestrów, to:
+a) produkt polimeryzacji metakrylanu metylu -[-CH2-C(CH3)( COOCH3)-]n
+b) produkt polikondensacji tereftalanu dimetylowego i glikolu etylenowego
+c) Produkt polikondensacji chloroprenu CH2=CH-CCl=CH2 i fenolu C6H5OH
+b
+99. Czy monomerami do otrzymywania metodą polikondensacji poliamidu 6.6 (nylonu 6.6) są:
+a) Kwas adypinowy HOOC(CH2)4COOH i heksametylenodiamina H2N(CH2)6NH2
+b) Izobutylen CH2=C(CH3)2 i mocznik (NH2)2CO
+c) Akrylonitryl CH2=CHCN i fenol C6H5OH
+a
+100. Szkło organiczne wytwarzane jest z:
+a) Polietylenu –[CH-CH]n
+b) Poli(metakrylanu metylu) -[CH2-C(CH3)COOCH3]n
+c) Poli(octanu winylu) -[CH2-CHOCOCH3]n
+b
+101. Czy kopolimer ABS powstaje z:
+a) Aldehydu, butanu i styrenu
+b) Polibutadienu, poliakrylonitrylu i polistyrenu
+c) Acetonu, benzenu i styrenu
+b
+102. Temperatura, w której następuje przejście ze stanu fizycznego szklistego do elastycznego lub odwrotnie nazywa się:
+a) Temperaturą zeszklenia, oznaczaną zwykle Tg
+b) Temperaturą płynięcia, oznaczaną zwykłe Tm
+c) Temperaturą elastyczności, oznaczaną Te
+a
+103. Temperatura przejścia ze stanu elastycznego do plastycznego lub odwrotnie nosi nazwę:
+a) Temperatury płynięcia, Tm
+b) Temperatury elastyczności, Te
+c) Temperatury plastyczności, Tp
+a
+104. Polimery amorficzne mogą występować w jednym z trzech stanów fizycznych: szklistym, elastycznym i plastycznym. Stan szklisty charakteryzuje:
+a) uporządkowanie makrocząsteczek, które powoduje przeźroczystość polimeru.
+b) uporządkowanie makrocząsteczek, które powoduje nieprzeźroczystość polimeru.
+c) nieuporządkowanie makrocząsteczek, ale jednocześnie twardość i kruchość wynikająca z tego, iż polimer jest w tym stanie przechłodzoną cieczą (jak szkło).
+c
+105. Krystaliczność polimerów to:
+a) zdolność do amorfizacji w mikroobszarach
+b) zdolność do równoległego układania się makrocząsteczek na dużej długości
+c) zdolność do tworzenia monokryształów
+b
+106. Polimery, które przy małych naprężeniach wykazują duże odkształcenie (do 100%), gdyżich temperatura zeszklenia znajduje się poniżej temperatury pokojowej i zakres temperatury ich użytkowania znajduje się w obszarze stanu wysokoplastycznego to:
+a) Elastomery
+b) Duroplasty
+c) Plastomery
+a
+107. Polimery wykazujące nieznaczne odkształcenie pod niewielkim obciążeniem, a które poddawane wzrastającemu obciążeniu zaczynają odkształcać się plastycznie aż do mechanicznego zniszczenia i których temperatura zeszklenia jest wyższa niż temperatura pokojowa, a zakres temperatury ich użytkowania znajduje się w obszarze stanu szklistego lub twardego to:
+a) Plastomery
+b) Kopolimery
+c) Elastomery
+a
+108. Tworzywa sztuczne, które w podwyższonej temperaturze lub pod wpływem innych czynników przekształcają się w produkt usieciowany (nietopliwy i nierozpuszczalny) i w zależności od sposobu utwardzania dzielą się na tworzywa termoutwardzalne i chemoutwardzalne to:
+a) Poliolefiny
+b) Duroplasty
+c) Termoplasty
+b
+109. Włókna kompozytów charakteryzujące się - w atmosferze nie powodującej utleniania dobrą odpornością cieplną i chemiczną do temperatury 2000oC to:
+a) Włókna szklane
+b) Włókna węglowe
+c) Włókna aramidowe
+b
+110. Średnica włókien szklanych stosowanych do wytwarzania kompozytów polimerowoszklanych wynosi:
+a) około 120 m
+b) około 12 m
+c) około 1,2m
+b
+111. Czy właściwości wytrzymałościowe włókna szklanego zależą od średnicy i są tym lepsze im mniejsza jest jego średnica?
+a) Tak
+b) Nie zależą
+c) Nie
+a
+112. Czy mechaniczne właściwości tworzyw sztucznych zbrojonych włóknem szklanym są tym lepsze im dłuższe są włókna, im większy jest ich udział w kompozycie i, im więcej włókien jest zorientowanych w kierunku przyłożonego obciążenia?
+a) Tak
+b) Nie ma to znaczenia
+c) Nie
+a
+113. Najbardziej rozpowszechnione kompozyty konstrukcyjne to:
+a) Kompozyty o osnowie polimerowej (żywice) wzmacniane włóknami stalowymi
+b) Kompozyty o osnowie polimerowej (żywice) wzmacniane włóknami aluminiowymi
+c) Kompozyty o osnowie polimerowej (żywice) wzmacniane włóknami szklanymi, węglowymi lub aramidowymi
+c
+114. Kompozyty warstwowe typu plaster miodu to:
+a) Dwie silne warstwy zewnętrzne rozdzielone warstwą słabszego i mniej gęstego materiału (rdzeń)
+b) Wiele warstw laminatu
+c) Wiele warstw różnych polimerów
+a
+115. Włókna węglowe otrzymuje się przez:
+a) Ze stopionego węgla w kąpieli przędzalniczej
+b) Ogrzewanie w powietrzu, a następnie w atmosferze beztlenowej różnego rodzaju włókien chemicznych, głównie ciągłych włókien wiskozowych lub poliakrylonitrylowych
+c) Ogrzewanie w powietrzu, a następnie w atmosferze beztlenowej różnego rodzaju włókien roślinnych
+b
+116. Oblicz masę cząsteczkową propylenu:
+a) 56
+b) 42
+c) 18
+b
+117. Oblicz masę cząsteczkową benzenu:
+a) 84
+b) 78
+c) 62
+b
+118. Umiejętność identyfikacja polimeru na podstawie zachowania się w płomieniu: zapach przypomina palone włosy, lub róg, płomień jest prawie cały niebieski. Można przypuszczać, że jest to:
+a) Poliamid
+b) Polistyren
+c) Polichlorek winylu
+a
+119. Substratem w reakcji otrzymywania polistyrenu jest styren. Na podstawie wzoru tego polimeru (-[-CH(C6H5)-CH2-]n) ustal wzór monomeru (styrenu).
+a) C2H5CH=CH2
+b) C6H5CH=CH2
+c) CH3-CH=CH2
+b
+120. Na podstawie obliczonego wzoru sumarycznego podaj nazwę związku chemicznego, którego cząsteczka zawiera 3 atomy pierwiastka o łącznej masie atomowej 36 i 8 atomów innego pierwiastka. Masa cząsteczkowa tego związku chemicznego wynosi 44.
+a) Propyn
+b) Propan
+c) Propen
+b
+121. Oblicz wzór sumaryczny związku chemicznego będącego monomerem pewnego polimeru, którego cząsteczka zawiera między innymi 2 atomy pierwiastka o łącznej masie atomowej 24 i 3 atomy wodoru, a masa cząsteczkowa tego związku chemicznego wynosi 62.
+a) CFCH3
+b) C2H3Cl
+c) CH3CF
+b
+122. Pierwsze prawo Kirchhoffa dla obwodów elektrycznych.
+a) Suma algebraiczna wartości chwilowych prądów w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów wpływających do węzła równa się sumie prądów wypływających z węzła.
+b) Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu.
+c) Suma algebraiczna wartości chwilowych prądów i napięć w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów i napięć wpływających do węzła równa się sumie prądów wypływających z węzła.
+a
+123. Drugie prawo Kirchhoffa dla obwodów elektrycznych.
+a) Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) występujących w oczku równa się sumie wartości chwilowych napięć na elementach pasywnych obwodu.
+b) Suma algebraiczna wartości chwilowych prądów w węźle obwodu elektrycznego jest równa zeru, czyli suma prądów wpływających do węzła równa się sumie prądów wypływających z węzła.
+c) Suma algebraiczna wartości chwilowych sił elektromotorycznych (SEM) i prądów występujących w oczku równa się sumie wartości chwilowych napięć i prądów na elementach pasywnych obwodu.
+a
+124. Czym charakteryzują się elementy idealne R, L, C?
+a) R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U.
+b) R – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; L – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U; C – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym.
+c) R – indukcyjność własna, przy przepływie prądu zmiennego ma jedynie właściwość gromadzenia energii w polu magnetycznym; L – rezystancja (opór czynny), przy przepływie prądu ma jedynie zdolność przemiany energii elektrycznej w ciepło; C – pojemność, może gromadzić energię w polu elektrycznym, jeżeli na elektrodach kondensatora znajduje się ładunek Q, co jest związane z występowaniem między elektrodami napięcia U.
+a
+125. Pierwsze prawo Kirchhoffa dla obwodów magnetycznych.
+a) Suma algebraiczna strumieni magnetycznych i spadków napięć magnetycznych w węźle obwodu magnetycznego jest równa zeru.
+b) Suma algebraiczna strumieni magnetycznych w węźle obwodu magnetycznego jest równa zeru.
+c) W oczku obwodu magnetycznego suma spadków napięć magnetycznych jest równa sumie sił magnetomotorycznych
+b
+126. Drugie prawo Kirchhoffa dla obwodów magnetycznych.
+a) Suma algebraiczna strumieni magnetycznych i spadków napięć magnetycznych w węźle obwodu magnetycznego jest równa zeru.
+b) W oczku obwodu magnetycznego suma spadków napięć magnetycznych jest równa sumie sił magnetomotorycznych
+c) Suma algebraiczna strumieni magnetycznych w węźle obwodu magnetycznego jest równa zeru.
+b
+127. Co to jest histereza magnetyczna?
+a) Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka wtórna.
+b) Jeżeli po osiągnięciu określonego punktu charakterystyki wtórnej zmniejszymy indukcję magnetyczną B, to natężenie pola magnetycznego H będzie się zmieniało według krzywej innej niż charakterystyka pierwotna.
+c) Jeżeli po osiągnięciu określonego punktu charakterystyki pierwotnej zmniejszymy natężenie pola magnetycznego H, to indukcja magnetyczna B będzie się zmieniała według krzywej innej niż charakterystyka pierwotna.
+c
+128. Przedstaw prawo bezwładności elektromagnetycznej (Reguła Lenza).
+a) Jakiekolwiek zmiany strumienia magnetycznego skojarzonego z przewodzącym obwodem zamkniętym powodują powstawanie sił elektromotorycznych i sił mechanicznych, przeciwdziałających zmianom skojarzonego strumienia magnetycznego.
+b) Jakiekolwiek zmiany strumienia magnetycznego powodują powstawanie sił mechanicznych, przeciwdziałających zmianom skojarzonego strumienia magnetycznego.
+c) Jakiekolwiek zmiany strumienia magnetycznego skojarzonego z przewodzącym obwodem zamkniętym powodują powstawanie sił elektromotorycznych.
+a
+129. Przedstaw zależności określenia mocy średniej w obwodzie prądu sinusoidalnego.
+a) Moc P = U*I, [W];
+b) Moc czynna: P = U*I*sin, [W];
+c) Moc czynna: P = U*I*cos, [W]; moc bierna: Q = U*I*sin, [VAr]; moc pozorna: S = U*I, [VA].
+c
+130. Przedstaw równania faz sem w układzie trójfazowym symetrycznym:
+a)
+b)
+c)
+a
+131. Co jest powodem odchyleń napięcia na zaciskach odbiornika od wartości znamionowej?
+a) Niewłaściwy poziom prądu na szynach zasilających linie elektroenergetyczne; nadmierny prąd w liniach; niewłaściwie dobrana przekładnia transformatora zasilającego linię; praca na niewłaściwym zaczepie transformatora.
+b) Niewłaściwy poziom napięcia na szynach zasilających linie elektroenergetyczne; nadmierne spadki napięcia w liniach; niewłaściwie dobrana przekładnia transformatora zasilającego linię; praca na niewłaściwym zaczepie transformatora.
+c) Niewłaściwa długość szyn zasilających linie elektroenergetyczne; nadmierna pojemność w liniach; niewłaściwie dobrana moc transformatora zasilającego linię.
+b
+132. Przesył prądu biernego indukcyjnego jest związany z:
+a) Koniecznością poboru mocy biernej w elektrowniach zasilających sieć.
+b) Wzrostem spadków napięć w tych wszystkich przypadkach, gdy w grę wchodzi indukcyjność przewodów linii; koniecznością wytworzenia mocy biernej w elektrowniach zasilających sieć; wzrostem strat mocy i energii czynnej – straty mocy zależą od kwadratu modułu prądu I; wzrostem prądu przesyłanego i koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego prądu.
+c) Koniecznością poboru mocy biernej w elektrowniach zasilających sieć oraz koniecznością takiego wymiarowania poszczególnych elementów sieci, aby były one przystosowane do przesyłu zwiększonego napięcia.
+b
+133. Zapotrzebowanie na moc bierną może być ograniczone dzięki:
+a) Właściwemu doborowi silników elektrycznych do napędzanych maszyn (zmniejszenie mocy znamionowych silników i zmniejszenie poboru mocy biernej na magnesowanie); właściwemu doborowi mocy transformatorów do mocy zasilanych odbiorów; ograniczeniu czasów pracy nie obciążonych silników i transformatorów (pobór mocy jedynie na magnesowanie); zastosowaniu silników synchronicznych zamiast silników indukcyjnych (możliwość redukcji wzbudzenia i tym samym regulacji poboru mocy biernej).
+b) zastosowaniu silników asynchronicznych zamiast silników indukcyjnych (możliwość zwiększenia wzbudzenia i tym samym regulacji poboru mocy biernej).
+c) zmniejszenie mocy znamionowych silników i zmniejszenie poboru mocy biernej na zmianę wzbudzenia.
+a
+134. Co nazywamy tyrystorem?
+a) Tyrystorami są nazywane specjalne transoptory mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor.
+b) Tyrystorami są nazywane specjalne elementy optoelektroniczne mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor.
+c) Tyrystorami są nazywane specjalne diody krzemowe mające elektrodę sterującą zwaną bramką. Elementy te nie przewodzą prądu elektrycznego pomimo polaryzacji w kierunku przewodzenia dopóty, dopóki na bramce nie pojawi się impuls prądu załączającego. Zanik prądu bramki nie powoduje przerwania przepływu prądy przez tyrystor.
+c
+135. Co nazywamy Elektronicznym Układem Generacyjnym?
+a) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne gasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów niesinusoidalnych.
+b) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej nieokresowe. W zależności od kształtu przebiegów wejściowych są spotykane generatory przebiegów niesinusoidalnych.
+c) Elektronicznym Układem Generacyjnym lub wprost Generatorem nazywamy układ wytwarzający przebiegi elektryczne niegasnące, najczęściej okresowe. W zależności od kształtu przebiegów wyjściowych są spotykane generatory przebiegów sinusoidalnych i niesinusoidalnych.
+c
+136. Jak dzielimy elektroniczne układy generacyjne?
+a) W zależności od mechanizmu powstawania drgań układy generacyjne dzielimy na układy z rezystancją ujemną i dodatnią posiadające sprzężenie elektronowe.
+b) W zależności od mechanizmu powstawania drgań układy generacyjne dzielimy na: układy z ujemnym sprzężeniem zwrotnym; układy z rezystancją dodatnią; układy ze sprzężeniem elektronowym.
+c) W zależności od mechanizmu powstawania drgań układy generacyjne dzielimy na: układy z dodatnim sprzężeniem zwrotnym; układy z rezystancją ujemną; układy ze sprzężeniem elektronowym.
+c
+137. O czym mówi klasa pracy wzmacniacza?
+a) Klasa pracy opisuje działanie wzmacniacza przez określenie warunków przepływu prądu kolektora w jednym okresie zmian napięcia sygnału. Czas, w którym tranzystor znajduje się w stanie aktywnym, określa się wartością kąta przepływu ϑ (klasa A: ϑ = 2π; klasa AB: π < ϑ < 2π; klasa B: ϑ = π; klasa C: ϑ < π;
+b) Klasa pracy opisuje działanie wzmacniacza przez określenie warunków przepływu prądu kolektora w jednym okresie zmian napięcia sygnału. Czas, w którym tranzystor znajduje się w stanie aktywnym, określa się wartością kąta przepływu 2ϑ (klasa A: 2 ϑ = 2π; klasa AB: π < 2 ϑ < 2π; klasa B: 2 ϑ = π; klasa C: 2 ϑ < π;
+c) Klasa pracy opisuje działanie wzmacniacza przez określenie warunków przepływu prądu emitera i bazy w jednym okresie zmian napięcia sygnału.
+a
+138. Wymień przykładowe diody półprzewodnikowe.
+a) Dioda warstwowa; tranzystor; dioda elektroluminescencyjna (LED); dioda pojemnościowa
+b) Dioda warstwowa; dioda Zenera; dioda elektroluminescencyjna (LED); dioda pojemnościowa; fotodioda.
+c) Dioda warstwowa; tranzystor; dioda elektroluminescencyjna (LED); dioda pojemnościowa, dioda tunelowa, transoptor, triak.
+b
+139. Idealny wzmacniacz operacyjny powinien posiadać następujące właściwości:
+a) Zerowa rezystancja wejściowa; nieskończona rezystancja wyjściowa; minimalne wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft.
+b) Nieskończona rezystancja wejściowa; zerowa rezystancja wyjściowa; nieskończone wzmocnienie; nieskończone pasmo częstotliwości; zerowy dryft.
+c) Nieskończona rezystancja wejściowa; nieskończona rezystancja wyjściowa; nieskończone wzmocnienie; wąskie pasmo częstotliwości; stały dryft.
+b
+140. Na czym polega modulacja i demodulacja?
+a) Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją.
+b) Proces nakładania sygnału wielkiej częstotliwości na sygnał niosący informację nosi nazwę modulacji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się demodulacją lub detekcją.
+c) Proces nakładania sygnału niosącego informację na sygnał wielkiej częstotliwości nosi nazwę demodulacji lub detekcji. Proces odwrotny – polegający na przywracaniu sygnałowi jego pierwotnej postaci nazywa się modulacją.
+a
+141. Wymień rodzaje modulacji.
+a) Ze względu na to, że trzy wielkości charakteryzują przebieg sinusoidalny: amplituda, częstotliwość i faza możemy, zmieniając którąś z nich w takt sygnału informacyjnego uzyskać modulację napięcia lub prądu.
+b) Ze względu na to, że trzy wielkości charakteryzują przebieg sinusoidalny: amplituda, częstotliwość i faza możemy, zmieniając którąś z nich w takt sygnału informacyjnego uzyskać modulację amplitudy, częstotliwości lub fazy.
+c) Ze względu na to, że trzy wielkości charakteryzują przebieg sinusoidalny: amplituda, częstotliwość i faza możemy, zmieniając którąś z nich w takt sygnału informacyjnego uzyskać detekcję amplitudy, częstotliwości lub fazy.
+b
+142. Wymień podstawowe układy generatorów LC.
+a) Meissnera, Hartleya i Colpittsa. Prezentują trzy rodzaje sprzężeń, tzn. przesuwnikowe, mostkowe i CR.
+b) Meissnera, Hartleya i Colpittsa. Prezentują trzy rodzaje sprzężeń, tzn. transformatorowe, indukcyjne i pojemnościowe.
+c) generator z przesuwnikiem CR, gen. z mostkiem Wiena, generator z układem podwójnego T
+b
+143. Co nazywamy prostownikiem?
+a) Prostownikami nazywamy układy umożliwiające przepływ jednokierunkowego prądu przez impedancję obciążenia wtedy, gdy źródło zasilania wytwarza napięcie stałe(jednokierunkowe). Rozróżniamy prostowniki sterowane i niesterowalne.
+b) Prostownikami nazywamy układy umożliwiające przepływ jednokierunkowego prądu przez impedancję obciążenia wtedy, gdy źródło zasilania wytwarza napięcie przemienne (dwukierunkowe). Rozróżniamy prostowniki sterowane i niesterowalne.
+c) Prostownikami nazywamy układy umożliwiające przepływ dwukierunkowego prądu przez impedancję obciążenia wtedy, gdy źródło zasilania wytwarza napięcie stałe (dwukierunkowe). Rozróżniamy prostowniki sterowane i niesterowalne.
+b
+144. W technice pomiarów elektrycznych (przyrządy pomiarowe elektromechaniczne) metody pomiarowe zerowe polegają na:
+a) doprowadzeniu do zaniku prądu w konkretnej części układu i wyznaczeniu nie znanej rezystancji w metodzie mostkowej lub nie znanej sem w metodzie kompensacyjnej, na podstawie znanych warunków w układzie.
+b) Odczycie wskazania przyrządu, np. prądu na amperomierzu.
+c) Porównaniu dwóch wartości, np. napięcia na połączonych szeregowo rezystorach znanym i mierzonym.
+a
+145. Na czym opiera się działanie maszyn elektrycznych wirujących?
+a) Maszyny elektryczne wirujące są urządzeniami przeznaczonymi do przetwarzania energii mechanicznej na energię elektryczną (silniki) lub odwrotnie energii elektrycznej na mechaniczną (prądnice).
+b) Maszyny elektryczne wirujące są urządzeniami przeznaczonymi do przetwarzania energii mechanicznej na energię elektryczną (prądnice) lub odwrotnie energii elektrycznej na mechaniczną (silniki); mogą również służyć do zmiany parametrów energii elektrycznej: napięcia i częstotliwości (przetwornice).
+c) Maszyny elektryczne wirujące są urządzeniami przeznaczonymi do przetwarzania energii elektrycznej na energię mechaniczną (prądnice) lub odwrotnie energii elektrycznej na mechaniczną (silniki); mogą również służyć do zmiany parametrów energii elektrycznej: napięcia i częstotliwości (przetwornice).
+b
+146. Maszyny prądy stałego możemy podzielić na:
+a) Szeregowa, równoległa, ,obcowzbudno –szeregowa, bocznikowo - szeregowa
+b) Obcowzbudna; bocznikowa; szeregowa; bocznikowo - szeregowa.
+c) Równoległa, ,obcowzbudno –szeregowa, bocznikowo – szeregowa, bocznikowa
+b
+147. Jakie warunki muszą być spełnione przed przyłączeniem prądnicy synchronicznej do sieci (lub równolegle do innej prądnicy)?
+a) Zgodne kierunki wirowania napięć prądnicy i sieci, czyli jednakowe następstwo faz; równość napięć; równość częstotliwości; zgodność fazowa napięć prądnicy i sieci (ϑL = 0).
+b) Zgodne kierunki wirowania prądów prądnicy i sieci, czyli jednakowe następstwo faz; równość napięć; równość częstotliwości; zgodność fazowa napięć prądnicy i sieci (ϑL <> 0).
+c) Niezgodne kierunki wirowania napięć prądnicy i sieci, czyli nie jednakowe następstwo faz; równość napięć; równość częstotliwości; zgodność fazowa napięć prądnicy i sieci (ϑL <> 0).
+a
+148. Co to jest transformator?
+a) Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest podwyższanie lub obniżanie napięcia, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem prądu przy zachowaniu tej samej częstotliwości i praktycznie tej samej mocy.
+b) Transformator jest dynamicznym urządzeniem elektrycznym działającym na zasadzie indukcji elektrycznej. Zadaniem jego jest podwyższanie lub obniżanie prądu, co związane jest z odpowiednim zmniejszaniem lub zwiększaniem napięcia przy zmianie częstotliwości i praktycznie tej samej mocy.
+c) Transformator jest statycznym urządzeniem elektrycznym działającym na zasadzie indukcji elektromagnetycznej. Zadaniem jego jest zmiana napięcia, co związane jest z odpowiednim zwiększaniem prądu przy różnych częstotliwościach i mocach.
+a
+149. Sposoby hamowania elektrycznego silników.
+a) Odzyskowe zwane też prądnicowym lub w odniesieniu do silników indukcyjnych prądu przemiennego – nadsynchronicznym, gdy energia jest oddawana do sieci elektrycznej; dynamiczne zwane też rezystancyjnym – gdy energia jest wytracana w rezystorach i uzwojeniach silnika; przeciwprądowe - gdy silnik pobiera energię mechaniczną z urządzenia mechanicznego i elektryczną z sieci elektrycznej i cała ta energia jest przemieniana w ciepło w rezystorach i w uzwojeniach silnika.
+b) Nadzyskowe zwane też prądnicowym lub w odniesieniu do silników indukcyjnych prądu stałego – podsynchronicznym, gdy energia jest oddawana do sieci elektrycznej; dynamiczne zwane też rezystancyjnym – gdy energia jest wytracana w rezystorach i uzwojeniach silnika; prądowe - gdy silnik pobiera energię mechaniczną z urządzenia mechanicznego i elektryczną z sieci elektrycznej i cała ta energia jest przemieniana w ciepło w rezystorach i w uzwojeniach silnika.
+c) Dynamiczne zwane też pojemnościowym – gdy energia jest wytracana w cewkach i uzwojeniach silnika; prądowe - gdy silnik pobiera energię mechaniczną z urządzenia mechanicznego i elektryczną z sieci elektrycznej i cała ta energia jest przemieniana w ciepło w cewkach i w uzwojeniach silnika.
+a
+150. Jakie są brane pod uwagę warunki doboru silnika (układu napędowego)?
+a) Warunki pracy urządzenia napędzanego oraz koszt urządzeń. Warunki pracy urządzenia napędzanego decydują o wyborze rodzaju silnika i jego wielkości znamionowych: prądu, pojemności, mocy, przeciążalności.
+b) Warunki otoczenia; warunki zasilania; warunki pracy urządzenia napędzanego oraz koszt urządzeń i strat energii. Warunki zasilania i warunki pracy urządzenia napędzanego decydują o wyborze jego wielkości znamionowych: prądu, rezystancji, indukcyjności, pojemności.
+c) Warunki otoczenia; warunki zasilania; warunki pracy urządzenia napędzanego oraz koszt urządzeń i strat energii. Warunki zasilania i warunki pracy urządzenia napędzanego decydują o wyborze rodzaju silnika i jego wielkości znamionowych: napięcia, częstotliwości, mocy, przeciążalności.
+c
+151. Co to jest System Elektroenergetyczny (SEE)?
+a) Jest to zbiór urządzeń przeznaczonych do wytwarzania, przesyłu, rozdziału i użytkowania energii elektrycznej. Można wyróżnić w nim urządzenia wytwarzające energię elektryczną, sieci elektroenergetyczne i urządzenia odbiorcze. SEE jest systemem szczególnym, w którym w każdej chwili musi być zachowana równość mocy wytwarzanych i mocy odbieranych.
+b) Jest to zbiór urządzeń przeznaczonych do wytwarzania, przesyłu, rozdziału i użytkowania energii elektrycznej. Można wyróżnić w nim urządzenia wytwarzające energię elektryczną, sieci elektroenergetyczne i urządzenia odbiorcze. SEE jest systemem niezależnym od żadnych czynników zewnętrznych, w którym w każdej chwili nie musi być zachowana równość mocy pobieranych i mocy odbieranych.
+c) Jest to zbiór urządzeń przeznaczonych do wytwarzania, przesyłu, rozdziału i użytkowania energii elektrycznej. Można wyróżnić w nim urządzenia wytwarzające energię elektryczną, sieci elektroenergetyczne i urządzenia odbiorcze. SEE jest systemem odosobnionym, w którym w każdej chwili nie musi być zachowana równość mocy wytwarzanych i mocy odbieranych.
+a
+152. Przedstaw zadania stacji elektroenergetycznej.
+a) Do podstawowych zadań należy rozdział i przetwarzanie energii elektrycznej. Można je podzielić na takie w których: odbywa się rozdział energii na jednym poziomie natężenia prądu – stacje rozdzielcze lub rozdzielnie; zachodzi przetwarzanie energii elektrycznej na różne poziomy natężenia prądu – stacje transformatorowo – rozdzielcze; odbywa się tylko transformacja energii elektrycznej – stacje transformatorowe.
+b) Do podstawowych zadań należy rozdział i przetwarzanie energii elektrycznej. Można je podzielić na takie w których: odbywa się rozdział energii na jednym poziomie napięcia – stacje rozdzielcze lub rozdzielnie; zachodzi przetwarzanie energii elektrycznej na różne poziomy napięcia – stacje transformatorowo – rozdzielcze; odbywa się tylko transformacja energii elektrycznej – stacje transformatorowe.
+c) Do podstawowych zadań należy rozdział i przetwarzanie energii elektrycznej. Można je podzielić na takie w których: odbywa się rozdział energii na różne poziomy napięcia – stacje rozdzielcze lub rozdzielnie; zachodzi przetwarzanie energii elektrycznej na jednym poziomie napięcia – stacje transformatorowo – rozdzielcze; odbywa się tylko transformacja energii elektrycznej – stacje transformatorowe.
+b
+153. Jak zmienia się przewodnictwo elektryczne metali, a jak półprzewodników samoistnych ze wzrostem temperatury?
+a) metali rośnie, półprzewodników maleje
+b) w obu przypadkach maleje
+c) metali maleje, półprzewodników rośnie
+c
+154. Jak się zmienia pojemność kondensatora, pomiędzy którego okładkami znajduje się dielektryk stały w odniesieniu do kondensatora powietrznego o identycznych wymiarach i co jest tego powodem?
+a) zwiększa się, gdyż polaryzacja elektryczna dielektryka umożliwia zgromadzenie mniejszego ładunku na jego okładkach
+b) zmniejsza się, gdyż polaryzacja elektryczna dielektryka umożliwia zgromadzenie mniejszego ładunku na jego okładkach
+c) zwiększa się, gdyż polaryzacja elektryczna dielektryka umożliwia zgromadzenie większego ładunku na jego okładkach
+c
+155. Jaki rodzaj nośników prądu elektrycznego dominuje w półprzewodnikach typu n i dlaczego?
+a) elektrony, gdyż półprzewodnik typu n jest domieszkowany donorami
+b) dziury elektronowe, gdyż półprzewodnik typu n jest domieszkowany donorami
+c) dziury elektronowe, gdyż półprzewodnik typu n jest domieszkowany akceptorami
+
+156. Które materiały nazywane są piezoelektrykami?
+a) takie, w których pod wpływem zmiany temperatury powstają na powierzchniach przeciwne ładunki elektryczne
+b) takie, w których pod wpływem naprężeń mechanicznych powstaje pole elektryczne i na odwrót
+c) takie, w których pod wpływem zmiany zewnętrznego pola elektrycznego zmienia się stała dielektryczna
+b
+157. Jaka jest zależność pomiędzy ruchliwością nośników ładunku elektrycznego (μ), gęstością nośników ładunku elektrycznego (n), wielkością ładunku elektrycznego tych nośników (q) oraz przewodnictwem elektrycznym (σ)?
+a) nq = σμ
+b) σ = nqμ
+c) μ = nqσ
+b
+158. W których materiałach stosunek przewodnictwa cieplnego do przewodnictwa elektrycznego w tej samej temperaturze jest praktycznie taki sam?
+a) w półprzewodnikach
+b) we wszystkich typach materiałów
+c) w metalach
+c
+159. Jak zmienia się przewodnictwo elektryczne jakiegoś metalicznego pierwiastka po rozpuszczeniu w nim niewielkiej ilości innego pierwiastka?
+a) maleje lub wzrasta w zależności od dodatku
+b) maleje
+c) wzrasta
+a
+160. Gdzie głownie stosuje się twarde materiały magnetyczne?
+a) do wytwarzania blach transformatorowych
+b) do wytwarzania nośników pamięci
+c) do wytwarzania stałych magnesów
+c
+161. Jak zachowują się różne typy materiałów w niejednorodnym polu magnetycznym?
+a) paramagnetyki są wypychane z takiego pola a diamagnetyki i ferromagnetyki są wciągane
+b) ferromagnetyki są wypychane z takiego pola a diamagnetyki i paramagnetyki są wciągane
+c) diamagnetyki są wypychane z takiego pola a paramagnetyki i ferromagnetyki są wciągane
+c
+162. Co to jest temperatura Curie w odniesieniu do materiałów magnetycznych?
+a) temperatura, powyżej której ferromagnetyk staje się paramagnetykiem
+b) temperatura, powyżej której paramagnetyk staje się diamagnetykiem
+c) temperatura, poniżej której diamagnetyk staje się ferromagnetykiem
+a
+163. Jak zmienia się pętla histerezy magnetycznej ferromagnetyków ze wzrostem temperatury?
+a) indukcja magnetyczna nasycenia wzrasta a pole koercji maleje
+b) indukcja magnetyczna nasycenia i pole koercji maleją
+c) indukcja magnetyczna nasycenia maleje a pole koercji wzrasta
+b
+164. Kiedy materiał jest przezroczysty dla światła?
+a) wtedy, gdy przerwa energetyczna pomiędzy pasmem walencyjnym a pasmem przewodnictwa jest większa od energii fotonów tego światła
+b) wtedy, gdy pasmo walencyjne i pasmo przewodnictwa częściowo na siebie nachodzą
+c) wtedy, gdy przerwa energetyczna pomiędzy pasmem walencyjnym a pasmem przewodnictwa jest mniejsza od energii fotonów tego światła
+a
+165. Dzięki jakiemu zjawisku powstaje zabarwienie materiałów przeźroczystych domieszkowanych jonami niektórych metali?
+a) selektywna absorpcja światła
+b) selektywne odbicie światła
+c) selektywna polaryzacja światła
+a
+166. Które materiały charakteryzują się dużymi współczynniki rozszerzalności cieplnej?
+a) materiały o wysokiej temperaturze topnienia
+b) materiały o dużej wartości przewodności cieplnej
+c) materiały o niskiej temperaturze topnienia
+c
+167. Dokończ następującą definicję: „Ciepło właściwe danej substancji jest to ilość ciepła potrzebna do ogrzania o 1 stopień Celsjusza ...
+a) 1 cm3 tej substancji”
+b) 1 g tej substancji”
+c) 1 mola tej substancji”
+b
+168. Metody nadawania kształtu i wymiarów wyrobom metalowym:
+a) przeróbka plastyczna, odlewanie, obróbka ubytkowa, metalurgia proszków
+b) odlewanie gęstwy do form, reakcja utwardzania
+c) kucie na gorąco, szlifowanie
+a
+169. Co to jest proszek?
+a) Materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 0.1 mm.
+b) Materiał sypki złożony z cząstek o wymiarach liniowych nie większych niż 1 mm.
+c) Materiał sypki złożony z cząstek o wymiarach liniowych większych niż 1 mm.
+b
+170. Wielkość nieregularnej cząstki proszku to:
+a) Największy wymiar liniowy cząstki.
+b) Najmniejszy wymiar liniowy cząstki.
+c) Zastępczy parametr liniowy określający wielkość cząstki proszku zgodnie z przyjętym sposobem pomiaru.
+c
+171. Właściwości chemiczne proszku to:
+a) Skład chemiczny – w tym zawartość tlenu i zanieczyszczeń, piroforyczność, toksyczność, reaktywność lub bierność chemiczna wobec różnych substancji.
+b) Zawartość aglomeratów i konglomeratów w proszku.
+c) Zawartość substancji organicznych w proszku.
+a
+172. Sypkość proszku to:
+a) Czas przesypywania się 50 g proszku przez otwór w standardowym lejku.
+b) Kąt zsypu proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty.
+c) Powierzchnia stożka utworzonego przez 50 g proszku luźno zasypanego z wolumetru Scotta na gładką powierzchnię szklanej płyty.
+a
+173. Gęstość piknometryczna proszku to:
+a) Gęstość pozorna proszku luźno zasypanego do piknometru.
+b) Gęstość rzeczywista proszku określona metodą piknometryczną.
+c) Gęstość zawiesiny utworzonej w piknometrze z rozpatrywanego proszku i odpowiednio dobranej cieczy.
+b
+174. Właściwości fizyczne proszku to:
+a) Zdolność do przyjmowania kształtu naczynia.
+b) Zdolność do przesypywania się.
+c) Gęstość, kształt cząstek, średnia wielkość cząstek, rozkład wielkości cząstek, powierzchnia właściwa.
+c
+175. Krzywa rozkładu wielkości cząstek to:
+a) Krzywa opisana na histogramie przedstawiającym zależność względnych udziałów poszczególnych klas ziarnowych od wielkości cząstek proszku.
+b) Inaczej krzywa sumarycznego udziału procentowego.
+c) Zależność mas proszku w poszczególnych klasach ziarnowych od wielkości cząstek proszku.
+a
+176. Powierzchnia właściwa proszku to
+a) Wielkość czynnej powierzchni przypadającej na jednostkę masy lub objętości proszku.
+b) Powierzchnia rzutu cząstki proszku.
+c) Zdolność do pokrywania płaskiego podłoża przez cząstki proszku wyrażona stosunkiem powierzchni rzutu cząstek do całkowitej powierzchni zajętej przez cząstki proszku.
+a
+177. Co to jest mieszanina proszków?
+a) Zbiór luźnych cząstek proszków co najmniej dwóch materiałów.
+b) Połączenia cząstek różnych materiałów w aglomeraty.
+c) Połączenia cząstek różnych materiałów w konglomeraty.
+a
+178. Rodzaje proszków ceramicznych z uwagi na pochodzenie.
+a) Tlenki, węgliki, azotki.
+b) Proszki powstałe w wyniku odparowania cieczy z zawiesin lub rozdrabniania materiałów w stanie stałym.
+c) Naturalne i syntetyczne.
+c
+179. Podstawowe etapy produkcji wyrobów ceramicznych
+a) Przygotowanie proszków, przygotowanie masy roboczej, formowanie, spiekanie, wykańczanie, kontrola jakości.
+b) Prasowanie proszków, spiekanie.
+c) Produkcja proszków, tworzenie gęstwy, odlewanie, spiekanie.
+a
+180. Jakie wiązania chemiczne łączą atomy w materiałach ceramicznych?
+a) Kowalencyjne.
+b) Wg częstotliwości występowania: wiązania kowalencyjne, jonowe, niekiedy Van der Vaalsa i metaliczne.
+c) Jonowe.
+b
+181. Proces spiekania to:
+a) Wypalanie półwyrobów uformowanych z proszków.
+b) Utrwalanie kształtu półwyrobów uformowanych z proszków.
+c) Zespół aktywowanych cieplnie procesów fizycznych i chemicznych związanych z transportem materii, zmianami chemicznymi i rozwojem struktury.
+c
+182. Mechanizmy transportu materii w trakcie spiekania w stanie stałym.
+a) Wspinanie się dyslokacji.
+b) Mechanizmy odpowiedzialne za pełzanie.
+c) Dyfuzja powierzchniowa, dyfuzja objętościowa, dyfuzja po granicach ziarn, parowanie i kondensacja, płynięcie plastyczne, płynięcie lepkościowe.
+c
+183. Etapy zagęszczania materiału podczas procesu spiekania w obecności fazy ciekłej.
+a) Rozpływanie się cieczy po powierzchni cząstek fazy stałej, tworzenie roztworów stałych.
+b) Tworzenie skupisk fazy ciekłej, rozpuszczanie materiału osnowy w cieczy.
+c) Przegrupowanie cząstek fazy stałej wskutek lepkościowego płynięcia cieczy, rozpuszczanie – wydzielanie, spiekanie szkieletu fazy stałej.
+c
+184. Parametry charakteryzujące proces spiekania.
+a) Profil „Temperatura-Czas”: szybkość nagrzewania, temperatura i czas izotermicznych przystanków, temperatura i czas izotermicznego spiekania, szybkość chłodzenia. Środowisko spiekania.
+b) Temperatura spiekania, czas spiekania, atmosfera spiekania.
+c) Temperatura spiekania.
+a
+185. Typowe metody formowania wyrobów ceramicznych.
+a) Wykorzystanie koła garncarskiego.
+b) Selektywne spiekanie laserowe.
+c) Formowanie ręczne. Prasowanie (jednoosiowe, hydrostatyczne). Odlewanie gęstwy. Wtrysk. Wyciskanie. Prasowanie izostatyczne na gorąco.
+c
+186. Podstawowe czynniki charakteryzujące formowanie wyrobów ceramicznych.
+a) Kształt wyrobów, metoda formowania, deformacje półwyrobów.
+b) Zawartość wilgoci w masie roboczej (formowanie na „sucho” lub na „mokro”), metoda formowania, rodzaje form, wielkość ciśnień, temperatura, stopień zagęszczenia, rozkład gęstości, sposób suszenia, zmiany wymiarowe wskutek suszenia, trwałość mechaniczna półwyrobów, stopień wykorzystania surowców.
+c) Materiał form, rodzaje narzędzi do formowania.
+b
+187. Typowe wyroby ceramiczne formowane metodą odlewania gęstwy.
+a) Elementy funkcyjne dla elektrotechniki.
+b) Pojemniki na ciecze, umywalki, taśmy, płyty.
+c) Katalizatory samochodowe.
+b
+188. Typowe wyroby ceramiczne formowane metodą wtrysku.
+a) Wyroby dla elektrotechniki.
+b) Rury ceramiczne.
+c) Wyroby o skomplikowanym kształcie (np. wirniki, implanty).
+c
+189. Typowe wyroby ceramiczne formowane metodą wyciskania.
+a) Profile (np. rury, katalizatory samochodowe)
+b) Wyroby jednostkowe.
+c) Taśmy.
+a
+190. Cele spiekania to:
+a) Połączenie wyrobu uformowanego z proszku z konwencjonalnym materiałem bezporowatym.
+b) Uzyskanie wyrobu spiekanego o możliwie najwyższej gęstości i odpowiedniej strukturze: - w możliwie najniższej izotermicznej temperaturze spiekania, - w możliwie najkrótszym czasie izotermicznego spiekania, - przy zachowaniu kształtu półwyrobu.
+c) Redukcja warstw tlenkowych pokrywających cząstki proszku.
+b
+191. Podstawowe metody obróbki wykańczającej przy produkcji spiekanych wyrobów ceramicznych
+a) Impregnacja.
+b) Szlifowanie, polerowanie, szkliwienie, dekorowanie, spajanie.
+c) Obróbka skrawaniem.
+b
+192. Właściwości spiekanego tlenku glinowego:
+a) Wysoka kruchość, aktywność chemiczna.
+b) Stosunkowo niska gęstość, wysoka wytrzymałość mechaniczna, wysoka twardość, wysoka odporność na zużycie, wysoka stabilność termiczna, wysoka odporność chemiczna, brak przewodności elektrycznej, bierność biologiczna.
+c) Wysoki współczynnik tarcia, podatność do obróbki mechanicznej.
+b
+193. Właściwości spiekanego węglika krzemu:
+a) Stosunkowo niska gęstość, wysoka wytrzymałość mechaniczna, względnie wysoka plastyczność wysoka twardość, wysoka odporność na zużycie, wysoka stabilność termiczna, wysoka odporność na korozję w wodzie morskiej, dobra przewodność cieplna, niski współczynnik rozszerzalności termicznej, dobra odporność na nagłe zmiany temperatury, dobre właściwości tribologiczne.
+b) Wysoka kruchość, mała odporność na nagłe zmiany temperatury.
+c) Nieodpowiedni do pracy w podwyższonej temperaturze, wysoka podatność na utlenianie.
+a
+194. Typowe materiały ceramiczno-metalowe to:
+a) Węgliki spiekane, spieki metalowe wzmacniane cząstkami tlenów lub węglików.
+b) Wyroby metalowe pokryte powłokami ceramicznymi.
+c) Wyroby ceramiczne metalizowane.
+a
+195. Metale produkowane w postaci proszków w największych ilościach to:
+a) Fe, Au, Ag.
+b) Fe, Al, Cu, Ni, W.
+c) Cu, Pb, Sn.
+b
+196. Podstawowe metody produkcji proszków metali to:
+a) Elektroliza, cementacja.
+b) Elektroliza stopionych soli, metoda karbonylkowa.
+c) Redukcja tlenków metali, rozpylanie ciekłych metali i stopów.
+c
+197. Przykłady typowych spiekanych części maszyn:
+a) Koła zębate, krzywki, popychacze, dźwignie, uchwyty, prowadnice, łożyska samosmarujące.
+b) Szczotki komutatorowe, styki elektryczne.
+c) Węgliki spiekane.
+a
+198. Przykłady bezkonkurencyjnych materiałów spiekanych:
+a) Spieki konstrukcyjne o osnowie żelaza, spiekane brązy.
+b) Spieki o wysokiej gęstości.
+c) Metalowe materiały porowate, węgliki spiekane, pseudostopy, spieki metalowodiamentowe, spieki ślizgowe typu Cu-grafit.
+c
+199. Ocenić wpływ rodzaju porowatości na przepuszczalność spiekanych wyrobów ceramicznych i metalowych:
+a) konieczna jest porowatość „butelkowa”
+b) tylko porowatość otwarta przelotowa zapewnia przepuszczalność wyrobu spiekanego dla cieczy i gazów
+c) wystarczająca jest porowatość powierzchniowa
+b
+200. Ocenić przewagę selektywnego spiekania laserowego nad innymi metodami formowania wyrobów z proszków:
+a) brak ograniczeń odnoszących się do kształtu wyrobu, możliwość produkcji pojedynczych wyrobów w sposób ekonomiczny
+b) niższe koszty seryjnej produkcji wyrobów spiekanych
+c) możliwość produkcji wyrobów o gładkiej powierzchni
+a
+201. Ocenić konkurencyjność technologii metalurgii proszków jako metody produkcji części maszyn dla przemysłu samochodowego:
+a) metalurgię proszków nie można uznać za odpowiednią technologię z punktu widzenia potrzeb przemysłu samochodowego
+b) metoda jest konkurencyjna w przypadku wielkoseryjnej produkcji drobnych elementów metalowych o dużej precyzji wykonania
+c) największe korzyści ekonomiczne są związane z produkcją elementów o dużej masie
+b
+202. Sezonowanie rud odbywa się:
+a) na składowisku uśredniającym
+b) w rozmrażalni wagonów
+c) na składowisku buforowym
+a
+203. Paliwem w procesie spiekania rud żelaza jest :
+a) pył węglowy
+b) gaz koksowy
+c) koksik
+c
+204. Taśma spiekalnicza w aglomerowni przesuwa się z prędkością :
+a) 100-200 cm/s
+b) 100-200 mm/h
+c) 1-2 m/min
+c
+205. W procesie grudkowania rud żelaza grudka tworzy się dzięki:
+a) chemicznemu wiązaniu za pomocą cementu
+b) napięciu powierzchniowemu wody w kapilarach
+c) wiązaniu za pomocą lepika asfaltowego
+b
+206. Proces koksowania jest procesem:
+a) spalania węgla
+b) odgazowania węgla
+c) utleniania węgla
+b
+207. Proces koksowania odbywa się w temperaturze:
+a) 500-6000C
+b) 1000-11000C
+c) 1500-16000C
+b
+208. W wielkim piecu produkujemy docelowo:
+a) żużel wielkopiecowy
+b) surówkę przeróbczą
+c) stal niskostopową
+b
+209. Produkty uboczne w wielkim piecu to:
+a) surówka i stal
+b) żużel i gaz wielkopiecowy
+c) surówka i gaz wielkopiecowy
+b
+210. Wsadem żelazodajnym do wielkiego pieca jest:
+a) złom stalowy
+b) spiek rudny i grudki
+c) surówka żelaza
+b
+211. W procesie wielkopiecowym:
+a) gaz przepływa w górę i odbiera tlen schodzącym w dół materiałom wsadowym
+b) koks jest wdmuchiwany przez dysze
+c) złom stalowy nagrzewany jest unoszącym się ku górze gazem
+a
+212. W odsiarczaniu pozapiecowym surówki najbardziej efektywnym środkiem jest:
+a) karbid wapnia
+b) magnez
+c) wapno
+b
+213. Podstawowym źródłem ciepłą w procesie konwertorowego wytapiania stali jest :
+a) ciepło reakcji utleniania domieszek wsadu
+b) spalanie gazu
+c) energia elektryczna
+a
+214. Wsadem żelazodajnym do konwertora tlenowego jest:
+a) tylko złom stalowy
+b) surówka żelaza i złom stalowy
+c) spiek i grudki
+b
+215. Odcinanie żużla przy spuście w procesie konwertorowym następuje za pomocą:
+a) kuli
+b) zatyczki
+c) lancy
+a
+216. Złom stalowy jest głównym składnikiem metalicznym stosowanym w :
+a) żeliwiaku
+b) piecach łukowych i indukcyjnych
+c) konwertorze tlenowym
+b
+217. Największy uzysk składników stopowych występuje przy dodatku żelazostopów do:
+a) konwertora w czasie wytopu
+b) kadzi przy podawaniu drutu rdzeniowego
+c) kadzi w czasie spustu
+b
+218. Największe zanieczyszczenie stali wtrąceniami niemetalicznymi występuje przy odlewaniu:
+a) syfonowym
+b) z góry
+c) COS
+a
+219. Proces ciągłego odlewania stali stosuje się w celu:
+a) zwiększenia długości wlewków
+b) zwiększenia ciągłości wlewków
+c) obniżenia kosztów produkcji stali
+c
+220. Czynnikiem decydującym o rodzaju przeróbki plastycznej jest tak zwana:
+a) temperatura rekrystalizacji
+b) temperatura mięknięcia
+c) temperatura krzepnięcia
+a
+221. Wsad do walcowania na gorąco jest podgrzewany:
+a) w piecach walcowych
+b) w piecach pokrocznych
+c) w piecach łukowych
+b
+222. Procesem przeróbki plastycznej nie jest:
+a) ciągnienie
+b) walcowanie
+c) prażenie
+c
+223. Wyrobami walcowanymi na zimno są głównie:
+a) blachy cienkie i taśmy
+b) szyny kolejowe
+c) dwuteowniki
+a
+224. Procesy hydrometalurgiczne stosowane są przy otrzymywaniu :
+a) metali nieżelaznych
+b) surówki odlewniczej
+c) aglomeratu
+a
+225. Dolna granica zawartości miedzi w rudzie określająca opłacalność jej wydobywania wynosi obecnie :
+a) 10%
+b) 50%
+c) 0,5%
+c
+226. Recykling złomu aluminiowego w procesie wytapiania aluminium pozwala na zmniejszenie zużycia energii elektrycznej w porównaniu do wytapiania pierwotnego z rudy o około :
+a) 95%
+b) 20%
+c) 50%
+a
+227. Przy produkcji cementu hutniczego stosuje się głównie :
+a) pumeks hutniczy
+b) żużel granulowany
+c) watę żużlową
+b
+228. Modele odlewanych wyrobów wykonuje się głównie z:
+a) drewna
+b) wosku
+c) gipsu
+a
+229. W metodzie traconego modelu materiał z którego wykonuje się model to:
+a) drewno
+b) wosk, parafina
+c) cement, gips
+b
+230. Aby wykonać odlew należy najpierw:
+a) wykonać model
+b) wykonać wytop
+c) wykonać formę
+a
+231. Najprostszą metodą odlewania jest:
+a) odlewanie odśrodkowe
+b) odlewanie próżniowe
+c) odlewanie grawitacyjne
+c
+232. Czy umiesz wybrać paliwa zastępcze najlepsze ze względów ekonomicznych?
+a) gaz ziemny
+b) olej, mazut
+c) pył węglowy
+c
+233. Czy potrafisz odróżnić stal od surówki ze względu na zawartość węgla:
+a) surówka ma powyżej 5 %C
+b) surówka ma powyżej 2,11 %C
+c) surówka ma poniżej 2,11 %C
+b
+234. Czy umiesz określić, jakie są palne składniki gazu wielkopiecowego?
+a) CO i H2
+b) H2O, CO2 i H2
+c) CO, CO2 i H2
+a
+235. Czy umiesz wskazać prawidłową kolejność przebiegu procesów metalurgicznych:
+a) Spiekalnia, wielki piec, konwertor, obróbka pozapiecowa stali, COS, walcowanie
+b) Spiekalnia, obróbka pozapiecowa stali, wielki piec, konwertor, COS, walcowanie,
+c) Wielki piec, konwertor, spiekalnia, obróbka pozapiecowa stali, COS, walcowanie
+a
+236. Czy potrafisz ocenić, gdzie ciekła surówka jest stosowana jako podstawowy składnik metaliczny:
+a) Piecach indukcyjnych
+b) Procesach konwertorowych
+c) Piecach łukowych
+b
+237. Czy potrafisz ocenić, która metoda odlewania stali jest obecnie najczęściej stosowana w Polsce i na świecie:
+a) COS
+b) Odlewanie syfonowe
+c) Odlewanie stali z góry
+a
+238. Czy umiesz wskazać, które elementy wchodzą w skład maszyny COS:
+a) Płyta podwlewnicowa, lej szamotowy, wlewnica
+b) Kadź pośrednia, krystalizator, drąg startowy
+c) Kadź odlewnicza, wlewnica, płyta podwlewnicowa
+b
+239. Czy umiesz określić, co wprowadza się do kadzi w celu uzupełnienia składu chemicznego stali:
+a) Koks
+b) Drut rdzeniowy
+c) Spiek
+b
+240. Czy potrafisz ocenić, w jakich warunkach może być prowadzona pozapiecowa obróbka stali :
+a) Pod ciśnieniem atmosferycznym i w próżni
+b) Tylko w próżni
+c) Tylko pod ciśnieniem atmosferycznym
+c
+241. v we wzorze oznacza:
+a) Objętość
+b) Przyrost objętości właściwej
+c) Objętość właściwą
+a
+242. Równanie (-) wyraża:
+a) I zasadę termodynamiki w drugiej postaci
+b) Wzór Gibbsa, definiujący entalpię
+c) I zasadę termodynamiki w pierwszej postaci
+a
+243. Przy pomocy wzoru oblicza się:
+a) Strumień ciepła pobieranego przez czynnik
+b) Wyłącznie strumień ciepła pobieranego przez 1 kg czynnika
+c) Ciepło pobierane przez czynnik
+a
+244. Czy a we wzorze, to:
+a) Ciepło właściwe średnie
+b) Ciepło właściwe rzeczywiste
+c) Przyrost entropii właściwej
+b
+245. Czy b we wzorze, to:
+a) Ciepło właściwe średnie
+b) Przyrost entropii właściwej
+c) Ciepło właściwe rzeczywiste
+a
+246. Jeśli cv = 2,5 R, to cp jest równe:
+a) 1,5 R
+b) 3 R
+c) 3,5 R
+c
+247. Obieg silnika Carnota realizowany jest pomiędzy źródłami ciepła: dolnym, o temperaturze tg = 0 oC, i górnym, o temperaturze td = 47 oC. Czynnikiem obiegowym jest w pierwszym przypadku gaz doskonały 1-atomowy, w drugim - gaz doskonały 3-atomowy. Sprawność tego silnika będzie:
+a) Najwyższa w pierwszym przypadku
+b) Najwyższa w drugim przypadku
+c) W obu przypadkach jednakowa
+c
+248. Stosunek uniwersalnej stałej gazowej R do masy molowej gazu M nazwano: indywidualną stałą gazową:
+a) Indywidualną stałą gazową
+b) Liczbą Avogadro
+c) Stałą Boltzmanna
+a
+249. Definicja I zasady termodynamiki brzmi:
+a) Niemożliwe jest zbudowanie perpetuum mobile I-go rodzaju
+b) Możliwe jest zbudowanie perpetuum mobile I-go rodzaju
+c) Niemożliwe jest zbudowanie perpetuum mobile II-go rodzaju
+a
+250. Dyfuzja gazów jest przykładem przemiany:
+a) Izentropowej
+b) Nieodwracalnej
+c) Odwracalnej
+b
+251. Równaniem pv  const można opisać zachowanie się gazu podczas:
+a) Przemiany izotermicznej
+b) Przemiany izobarycznej
+c) Przemiany adiabatycznej
+a
+252. Praca techniczna Lt w przemianie izobarycznej zachodzącej dla gazu 2-atomowego znajdującego się pod ciśnieniem 101 325 Pa przy zmianie objętości od 1m3 do 2 m3 wynosi:
+a) 101 325 J
+b) 0
+c) 202650 J
+b
+253. Dla obiegów odwracalnych przyrost entropii czynnika termodynamicznego:
+a) Wynosi 0
+b) Rośnie
+c) Maleje
+a
+254. Wartość uniwersalnej stałej gazowej R=8,315 ma następującą jednostkę:
+a) J/(kmol·K)
+b) J/(mol·K)
+c) J/(kg·K)
+b
+255. Równanie c v  dT określa:
+a) Zmianę energii wewnętrznej układu
+b) Zmianę entalpii układu
+c) Ilość ciepła w układzie
+a
+256. Krystaliczny stan materii charakteryzuje się:
+a) występowaniem poniżej temperatury rekrystalizacji
+b) krystalicznym kształtem i połyskiem
+c) uporządkowanym ułożeniem atomów i anizotropią właściwości
+c
+257. Monokryształem nazywamy:
+a) materiał do produkcji kryształów ozdobnych
+b) pojedynczy kryształ w którym w całej objętości odpowiednie kierunki i płaszczyzny krystalograficzne mają jednakową orientację
+c) pojedynczy kryształ zbudowany z dużych ziaren
+b
+258. Polikryształem nazywamy:
+a) Krystaliczne ciało stałe o budowie ziarnistej w których ułożenie atomów można opisać cechami krystalograficznej komórki elementarnej
+b) Ciałem stałym mające właściwości polimorficzne
+c) Ciałem stałym składającym się z dwóch kryształów
+a
+259. Krystalograficzna komórka elementarna jest to:
+a) Wielościan foremny zawierający luki międzyatomowe
+b) Przestrzenna bryła geometryczna zawierająca atomy, której cechy odzwierciedlają najważniejsze właściwości fizyko-chemiczne ciała stałego
+c) Przestrzenna bryła geometryczna opisana na najbliższych atomach
+b
+260. Polimorfizm ciał stałych jest to:
+a) Zjawisko występowania ciał stałych w różnych układach krystalograficznych
+b) Zjawisko występowania ciał stałych w różnych stanach skupienia
+c) Polikrystaliczny stan materii
+a
+261. Anizotropia kryształu jest to:
+a) określenie układu krystalograficznego i typu sieci krystalicznej
+b) zróżnicowanie własności kryształu w zależności od kierunku w którym jest mierzona
+c) własność jaką wykazują ciała bezpostaciowe
+b
+262. Pas krystalograficzny jest to:
+a) zbiór płaszczyzn i kierunków o tych samych wskaźnikach
+b) zbiór płaszczyzn krystalograficznych równoległych do jednego wspólnego kierunku
+c) zbiór równoległych kierunków krystalograficznych
+b
+263. Materiał o teksturze krystalograficznej jest to:
+a) Materiał krystaliczny w którym większość ziaren (krystalitów) ma te samą lub symetrycznie równoważną orientację krystalograficzną
+b) Materiał o specjalnym kształcie ziaren
+c) Materiał o izotropowej orientacji krystalograficznej
+a
+264. Równanie Bragga-Brentano opisane jest wzorem:
+a) E=h
+b) n=2dhklsinhkl
+c) Ix=I0exp(-μx)
+b
+265. Obliczanie gęstości teoretycznej (krystalograficznej) fazy polega na:
+a) pomiarze parametrów komórki elementarnej i obliczaniu ilorazu ciężaru atomów w kom. elementarnej do jej objętości
+b) obliczaniu ilorazu ciężaru i objętości fazy
+c) obliczaniu ilości atomów w komórce elementarnej i mierzeniu jej objętości
+a
+266. Rentgenowska dyfrakcyjna analiza fazowa polega na:
+a) analizie linii widma charakterystycznego fazy
+b) przypisaniu wzoru stechiometrycznego fazy na podstawie analizy chemicznej
+c) analitycznym porównaniu zmierzonych odległości między płaszczyznami krystalograficznymi dhkl z danymi tablicowanymi dhkl faz już odkrytych
+c
+267. Pomiar parametrów komórki elementarnej fazy zawiera trzy główne informacje:
+a) 1. anizotropii fazy, 2. o składzie chemicznym fazy, 3. o gęstości fazy
+b) 1. zawartości obcych pierwiastków rozpuszczonych w sieci roztworu stałego, 2. o odkształceniu sprężystym sieci od naprężeń własnych i, 3. o rozszerzalności termicznej
+c) 1. o gęstości defektów, 2. o ilości fazy, 3. o orientacji krystalograficznej fazy
+b
+268. Określenie zawartości obcych pierwiastków rozpuszczonych w sieci roztworu stałego na podstawie rozmiaru komórki elementarnej polega na:
+a) badaniu przestrzennego rozmieszczenia atomów w komórce elementarnej
+b) precyzyjnym pomiarze parametrów komórki elementarnej metodą dyfrakcji rtg i wykorzystaniu liniowego prawa Vegarda
+c) badaniu wielościanów zawierających luki międzyatomowe
+b
+269. Widmo ciągłe lampy rentgenowskiej:
+a) powstaje na skutek emisji fotoelektronów
+b) powstaje na wskutek hamowania elektronów pierwotnych rozpędzonych w polu elektrycznym i przemiany ich energii w energię fali elektromagnetycznej
+c) powstaje w wyniku zmiany energii towarzyszącej przeskokom elektronów pomiędzy powłokami w atomach materiału anody
+b
+270. Praktyczne wykorzystanie widma charakterystycznego pierwiastków polega na:
+a) Otrzymywaniu promieniowania filtrowanego lub monochromatycznego Kα w lampach rentgenowskich stosowanych do badań dyfrakcyjnych lub Wykorzystywania fal promieniowania elektromagnetycznego emitowanych przez atomy do spektralnej analizy chemicznej
+b) Zjawisko występowania fal promieniowania charakterystycznego dla różnych stanów skupienia
+c) Emisja widma liniowego przez polikryształy
+a
+271. Rentgenowskie metody absorpcyjne polegają na:
+a) wykorzystaniu prawa absorpcji Ix=I0e-ux do defektoskopii i tomografii rentgenowskiej
+b) analizie intensywności pików dyfrakcyjnych
+c) wykonaniu obrazów dyfrakcyjnych
+a
+272. Wykonanie rentgenowskiej ilościowej analizy fazowej polega na:
+a) wzajemnym porównaniu intensywności wybranych pików dyfrakcyjnych od analizowanych faz
+b) pomiarze pików dyfrakcyjnych na figurze biegunowej
+c) porównaniu parametrów komórek elementarnych analizowanych faz
+a
+273. Eksperymentalne badania materiałów o teksturze krystalograficznej polega na:
+a) porównaniu materiału proszkowego do materiału o specjalnej orientacji krystalograficznej
+b) pomiarach kształtu ziaren
+c) 1. wzajemnym porównaniu intensywności pików dyfrakcyjnych materiału proszkowego (bez tekstury) i materiału z w którym większość ziaren (krystalitów) ma teksturę, i/lub 2. rejestrowaniu figur biegunowych metodą dyfrakcji promieniowania X
+c
+274. Metody rentgenowskie umożliwiają przeprowadzenie analiz materiałowych przy zastosowaniu:
+a) analizy chemicznej metodą dyfrakcji
+b) pomiaru wielkości próbki i wielkości ziaren (krystalitów)
+c) badań defektoskopowych i tomograficznych, dyfrakcyjnych oraz emisyjnych (fluorescencyjnych)
+c
+275. Stan naprężenia można rozłożyć na dwa stany podstawowe:
+a) stan naprężeń średnich oraz stan naprężeń oktaedrycznych
+b) stan hydrostatyczny oraz czyste ścinanie
+c) stan naprężeń głównych oraz stan naprężeń stycznych
+b
+276. Naprężenia oktaedryczne występują na płaszczyznach:
+a) sześcianu foremnego
+b) ośmiościanu foremnego
+c) czworościanu foremnego
+b
+277. Który z wzorów opisuje składowe tensora odkształceń skończonych w zapisie Lagrange ( przy przyjęciu oznaczeń : ui – wektor przemieszczenia, a1- wektor położenia początkowego, x1 – wektor położenia chwilowego; Lij – tensor odkształceń skończonych Lagrange
+a)
+b)
+c)
+a
+278. Naprężenia główne, to takie naprężenia,
+a) które działają prostopadle do płaszczyzn w których występują
+b) które działają stycznie do płaszczyzn w których występują
+c) których suma jest równa zero
+a
+279. Odkształcenia główne to takie odkształcenia:
+a) którym nie towarzyszą odkształcenia postaciowe
+b) które powodują odkształcenie objętości materiału
+c) które opisują występowanie stanu czystego ścinania
+a
+280. Każdy stan odkształcenia można rozłożyć na dwa stany podstawowe:
+a) stan hydrostatyczny i czyste ścinanie
+b) odkształcenie objętościowe oraz odkształcenie postaciowe
+c) odkształcenia: skończone i nieskończenie małe
+b
+281. Niezmienniki stanu naprężenia to:
+a) stałe wartości naprężeń powodujące pęknięcie materiału
+b) Składowe normalne i styczne stanu naprężeń, które nie zależą od przyjętego układu odniesienia
+c) wyrażenia algebraiczne utworzone ze składowych stanu naprężenia, które nie zmieniają swych wartości przy transformacjach układu odniesienia
+c
+282. Który z wzorów opisuje związki pomiędzy naprężeniami i odkształceniami w stanie sprężystym dla ciała sprężyście anizotropowego (przy przyjęciu oznaczeń: ij – tensor naprężenia, lij – tensor odkształceń nieskończenie małych, K- moduł ściśliwości, G – moduł ścinania, Cijkl – moduł stałych sprężystości)
+a) ij = K lij
+b) ij = G lij
+c) ij = Cijkl lKl
+c
+283. Prawo zmiany objętości ciała izotropowego sprężyście opisuje zależność (przy przyjęciu oznaczeń: ij – tensor naprężenia, 0 – naprężenie średnie, l0 – odkształcenie średnie, lijtensor odkształceń nieskończenie małych, K- moduł ściśliwości, G – moduł ścinania):
+a) ij = 2 G l0
+b) 0 = 3 K l0
+c) ij = 3 K lij
+b
+284. Prawo zmiany postaci ciała izotropowego sprężyście opisują zależności (przy przyjęciuoznaczeń: ij – tensor naprężenia,  ij - dewiator naprężenia, lij – tensor odkształceń nieskończenie małych, l ij - dewiator tensora lij, K – moduł ściśliwości, G – moduł ścinania
+a) 
+b)
+c)
+c
+285. Jeżeli przyjęty układ odniesienia xi pokrywa się z układem osi krystalograficznych to płaszczyzny działania maksymalnych naprężeń stycznych:
+a) pokrywają się z płaszczyznami krystalograficznymi (110)
+b) pokrywają się z płaszczyznami krystalograficznymi (100)
+c) pokrywają się z płaszczyznami krystalograficznymi (111)
+a
+286. Jeżeli przyjęty układ odniesienia xi pokrywa się z układem osi krystalograficznych to płaszczyzny działania naprężeń oktaedrycznych:
+a) pokrywają się z płaszczyznami krystalograficznymi (111)
+b) pokrywają się z płaszczyznami krystalograficznymi (110)
+c) pokrywają się z płaszczyznami krystalograficznymi (100)
+a
+287. Energia odkształcenia sprężystego, to energia:
+a) zmagazynowana w ciele odkształconym sprężyście
+b) krytyczna powodująca kruche pęknięcie materiału
+c) opisująca wielkość odkształceń postaciowych
+a
+288. Energię odkształcenia sprężystego można rozłożyć na dwie składowe:
+a) energię odkształcenia proporcjonalnego i energię odkształcenia nieproporcjonalnego
+b) energię odkształcenia objętości i energię odkształcenia postaci
+c) energię pękania i energię pełzania
+b
+289. Który ze wzorów opisuje energię właściwą sprężystego odkształcenia postaci (przy przyjęciu oznaczeń : Uf – energia właściwa sprężystego odkształcenia postaci, H – całkowite zastępcze naprężenie, 0 – naprężenie średnie, G – moduł ścinania, K – moduł ściśliwości)
+a) H2 Uf = 6G
+b) 02 Uf = 6G
+c) H2 Uf = 2 K
+a
+290. Hipoteza M.T. Hubera przejścia materiału ze stanu sprężystego w stan plastyczny wykorzystuje energię właściwą:
+a) sprężystego odkształcenia postaci
+b) odkształcenia sprężystego
+c) odkształcenia plastycznego
+a
+291. Hipteza von Misesa przejścia materiału ze stanu sprężystego w stan plastyczny wykorzystuje:
+a) krytyczna wartość energii odkształcenia sprężystego
+b) krytyczną wartość drugiego niezmiennika dewiatora naprężenia
+c) energię odkształcenia plastycznego
+b
+292. Całkowite zastępcze naprężenie, jest to takie naprężenia jednoosiowe, które:
+a) powoduje przejście materiału ze stanu sprężystego w stan plastyczny
+b) powoduje pęknięcie materiału
+c) powoduje takie samo wytężenie materiału jak złożony stan naprężenia
+c
+293. Całkowite zastępcze odkształcenie, to takie odkształcenie:
+a) które powoduje przejście materiału ze stanu sprężystego w stan plastyczny
+b) na wykonanie którego należy wydatkować taką samą pracę jak na wykonanie złożonego stanu odkształcenia
+c) powoduje wystąpienie pęknięcia w materiale
+b
+294. Prędkość odkształcenia ma wymiar:
+a) s-1
+b) jest wielkością bezwymiarową
+c) m/s
+a
+295. Warunkiem plastyczności nazywamy:
+a) warunek naprężeniowy, który musi być spełniony aby materiał przeszedł ze stanu sprężystego w stan plastyczny
+b) naprężenie uplastyczniające jako funkcję odkształcenia
+c) krytyczną wartość największego naprężenia głównego powodującego przejście materiału w stan plastyczny
+a
+296. Który z wzorów opisuje składowe tensora prędkości odkształcenia (przy przyjęciu oznaczeń ui – wektor przemieszczenia, vi – wektor prędkości, xi – wektor położenia chwilowego, ij - tensor prędkości odkształcenia)
+a)
+b)
+c)
+b
+297. Co otrzymujemy w wyniku rozwiązania równania trzeciego stopnia: -I3=0 jeżeli: - naprężenie, I1, I2, I3 – odpowiednio: pierwszy, drugi oraz trzeci niezmiennik tensora naprężenia ij
+a) naprężenia główne
+b) maksymalne naprężenia styczne
+c) naprężenia na płaszczyźnie oktaedru
+a
+298. Który z wzorów opisuje składowe tensora przyrostów odkształcenia (przy przyjęciu oznaczeń:  ij - dowolny tensor odkształceń skończonych, xi – wektor położenia chwilowego, ui – wektor przemieszczenia
+a)
+b)
+c)
+b
+299. Prawo plastycznego płynięcia Levy-Misesa stowarzyszone z warunkiem plastyczności Hubera-Misesa-Hencky’ego mówi, ze składowe tensora prędkości odkształcenia są proporcjonalne do:
+a) maksymalnego naprężenia stycznego
+b) dewiatora naprężenia
+c) tensora naprężenia
+b
+300. Narost to:
+a) klinowe przedłużenie ostrza na narzędziu powstałe z materiału obrabianego
+b) przedłużenie ostrza narzędzia powstałe w wyniku odkształcenia plastycznego wierzchołka narzędzia
+c) zgrubienie na powierzchni wióra powstałe w wyniku jego spęczenia
+a
+301. Wióry odłupywane:
+a) powstają w wyniku ścinania plastycznego materiału warstwy skrawanej
+b) powstają w wyniku przekroczenia wytrzymałości rozdzielczej materiału warstwy skrawanej
+c) powstają w wyniku ścierania materiału warstwy skrawanej
+b
+302. Wióry schodkowe:
+a) powstają w wyniku drgania narzędzia i przenoszenia drgań i odkształceń na materiał obrabiany
+b) powstają w wyniku pękania warstwy obrabianej w wyniku cyklicznego nacisku narzędzia na wiór
+c) powstają w wyniku zlokalizowanego odkształcenia plastycznego warstwy skrawanej w płaszczyźnie ścinania
+c
+303. Zużycie dyfuzyjne narzędzia polega na:
+a) przenoszeniu materiału narzędzia na materiał obrabiany w wyniku adhezji cząstek
+b) ścieraniu narzędzia przez twarde cząstki materiału obrabianego
+c) przenoszeniu materiału narzędzia na materiał obrabiany i materiału obrabianego na narzędzie w wyniku migracji atomów
+c
+304. Narzędziami z ostrzami diamentowymi nie należy obrabiać:
+a) stali
+b) kompozytów
+c) stopów aluminium
+a
+305. Trwałość narzędzia wieloostrzowego to:
+a) to czas użytkowania narzędzia od momentu zamontowania do jego złomowania
+b) czas do zużycia jednego ostrza
+c) wielkość charakteryzująca bezpośrednio czas skrawania lub pośrednio liczbę wykonanych operacji
+c
+306. Zanieczyszczenia w stali takie jak siarka i fosfor:
+a) pogarszają skrawalność
+b) nie wpływają na skrawalność
+c) polepszają skrawalność
+c
+307. Uszereguj skrawalność następujących materiałów od najlepszej do najgorszej:
+a) stal niestopowa o twardości 180HB, stal niskostopowa o twardości 260HB, stal austenityczna chromowo-niklowa o twardości 190HB, stal austenityczna manganowa 250HB
+b) stal niestopowa o twardości 180HB, stal austenityczna chromowo-niklowa o twardości 190HB, stal niskostopowa o twardości 260HB, stal austenityczna manganowa 250HB
+c) stal niestopowa o twardości 180HB, stal austenityczna chromowo-niklowa o twardości 190HB, stal austenityczna manganowa 250HB stal niskostopowa o twardości 260HB
+a
+308. Krzem, aluminium i mikrododatki (Ti, Nb, V) w stali:
+a) pogarszają skrawalność
+b) polepszają skrawalność
+c) nie wpływają na skrawalność
+a
+309. Skrawalność stali (0,08%C) o strukturze prawie czysto ferrytycznej i twardości 100HB od skrawalności stali zawierającej 0,18%C i twardości 165HB jest:
+a) gorsza
+b) taka sama
+c) lepsza
+a
+310. Skrawalność żeliwa sferoidalnego o twardości 250HB od skrawalności żeliwa szarego o tej samej twardości jest:
+a) gorsza
+b) lepsza
+c) taka sama
+a
+311. Podwyższenie trwałości narzędzi ze stali szybkotnącej metodą obróbki cieplno chemicznej prowadzi się w temperaturach:
+a) poniżej 550oC
+b) w zakresie temperatur 550 do 800oC
+c) powyżej 800oC
+a
+312. Na stalach szybkotnących warstwy podwyższające trwałość narzędzi nakłada się metodą:
+a) CVD
+b) PVD
+c) PVD lub CVD
+b
+313. Narzędzia skrawające z węglikostali otrzymuje się:
+a) metodą topienia, odlewania i kucia
+b) metodą metalurgii proszków
+c) metodą topienia, odlewania i walcowania
+b
+314. Złote powłoki TIN na narzędziach skrawających nakład się w celu:
+a) Podwyższenia odporności termicznej i odporności na zużycie ścierne
+b) Polepszenia wyglądu estetycznego
+c) Zabezpieczenia antykorozyjnego
+a
+315. Obróbka udarowo-ścierna to:
+a) Obróbka polegająca na usuwaniu warstwy wierzchniej przez cząstki materiału ściernego, które poddano szybkozmiennym obciążeniom bijaka o częstotliwości do 17kHz
+b) Obróbka polegająca na usuwaniu warstwy wierzchniej przez cząstki materiału ściernego, które poddano szybkozmiennym obciążeniom bijaka o częstotliwości powyżej 17kHz
+c) Obróbka polegająca na usuwaniu warstwy wierzchniej przez czoło odpowiednio zaostrzonego bijaka uderzającego o powierzchnię z częstotliwością do 10kHz
+b
+316. Obróbka strumieniem wody z dodatkiem materiału ściernego to:
+a) Obróbka strumieniowo-erozyjna
+b) Obróbka strumieniowo-ścierna
+c) Obróbka chemiczno-ścierna
+b
+317. Cięcie plazmowe to:
+a) Obróbka strumieniowo-ścierna
+b) Obróbka fotonowa
+c) Obróbka strumieniowo-erozyjna
+c
+318. Cięcie laserowe to:
+a) Obróbka fotonowa
+b) Obróbka jonowa
+c) Obróbka elektroiskrowa
+a
+319. Do cięcia podwodnego gazowo-tlenowego na dużych głębokościach jako gaz palny stosuje:
+a) Propan-butan
+b) wodór
+c) Acetylen
+b
+320. Toczenie plazmowe:
+a) Usuwanie narzędziem ze stali szybkotnącej warstwy materiału nagrzanego strumieniem plazmy do wysokiej temperatury
+b) Usuwanie naddatku technologicznego strumieniem plazmy z elementów obracających się
+c) Usuwanie narzędziem z wkładką z węglików spiekanych lub ceramiczną, warstwy materiału nagrzanego strumieniem plazmy do wysokiej temperatury
+b
+321. Cięcie termiczne tlenem stosuje się do:
+a) Cięcia żeliwa
+b) Cięcia stali zawierających do około 1,5%C
+c) Cięcia miedzi i aluminium
+b
+322. W procesie cięcia termicznego następuje:
+a) Zwiększenie twardości i zmiana składu chemicznego powierzchni cięcia
+b) Zwiększenie twardości i brak zmian składu chemicznego powierzchni cięcia
+c) Zmniejszenie twardości
+a
+323. Cięcie lancą tlenową to:
+a) Proces usuwania naddatku technologicznego w wyniku stopienia i spalenia materiału obrabianego w strumieniu mieszanki gazowo tlenowej
+b) Proces usuwania naddatku technologicznego ciepłem wydzielonym w wyniku spalenia w tlenie końcówki lancy i drutów stalowych znajdujących się wewnątrz lancy
+c) Proces usuwania naddatku technologicznego w wyniku spalenia w tlenie materiału obrabianego
+b
+324. Pierwiastki stopowe w stalach takie jak chrom, molibden, wolfram:
+a) Ułatwiają proces cięcia termicznego
+b) Nie wpływają na proces cięcia
+c) Utrudniają proces cięcia termicznego
+c
+325. W procesie cięcia termicznego w warstwie wierzchniej następuje zmiana składu chemicznego polegającą na:
+a) Wzroście zawartości niklu , chromu, manganu i krzemu
+b) Wzroście zawartości węgla, niklu, miedzi i molibdenu
+c) Obniżeniu zawartości węgla, niklu, chromu i manganu
+b
+326. Do produkcji tarcz diamentowych do cięcia stosuje się:
+a) Spoiwa klejowo–żywiczne i klejowe
+b) Spoiwa gumowe wzmocnione mechanicznie
+c) Spoiwa metalowe
+c
+327. Ostrza wykonane ze stali narzędziowych niestopowych w czasie pracy nie powinny się nagrzewać do temperatury wyższej od:
+a) Około 300oC
+b) Około 200oC
+c) Około 400oC
+b
+328. Stal hartowana o twardości powyżej 55HRC:
+a) Nie jest obrabialna metodą obróbki ubytkowej
+b) Jest obrabialna metodą obróbki ubytkowej
+c) Jest obrabialna tylko metodą szlifowania
+b
+329. Duża twardość narostu na ostrzu noża jest wynikiem:
+a) Umocnienia zgniotem
+b) Umocnienia zgniotem i przemian fazowych
+c) Przemian fazowych
+b
+330. Co to jest plastyczność?
+a) zdolność materiałów do trwałych odkształceń bez utraty spójności
+b) własność fizyczna metali i stopów niezależna od warunków odkształcenia
+c) zdolność materiałów do zmiany wymiarów pod wpływem zewnętrznych naprężeń
+a
+331. Które z wymienionych parametrów służyć mogą do oceny plastyczności materiałów?
+a) wydłużenie otrzymane z próby jednoosiowego rozciągania
+b) granica plastyczności materiału
+c) wytrzymałość materiału na rozciąganie
+a
+332. Jak stan naprężenia wpływa na plastyczność materiałów?
+a) naprężenia rozciągające powodują wzrost plastyczności
+b) im mniejsze jest naprężenie średnie tym plastyczność jest większa
+c) stan naprężenia nie ma wpływu na plastyczność
+b
+333. Przeróbka plastyczna na gorąco stopów żelaza to odkształcanie:
+a) powyżej temperatury rekrystalizacji
+b) poniżej temperatury rekrystalizacji
+c) przy temperaturze kruchości na niebiesko
+a
+334. Zmiana własności mechanicznych wyrobów pod wpływem przeróbki plastycznej na zimno nazywa się:
+a) umocnieniem odkształceniowym
+b) starzeniem
+c) wzmocnieniem wydzieleniowym
+a
+335. Krzywa umocnienia stali to:
+a) krzywa zmian twardości w funkcji odkształcenia i temperatury
+b) krzywa zmian naprężenia uplastyczniającego w funkcji: wielkości odkształcenia, prędkości odkształcenia i temperatury
+c) krzywa zmian wytrzymałości materiału na rozciąganie w funkcji odkształcenia
+b
+336. Gniot krytyczny w procesach przeróbki plastycznej na gorąco to takie odkształcenie, które prowadzi do:
+a) wystąpienia znacznej chropowatości powierzchni materiału
+b) znacznego rozrostu ziarna
+c) pęknięcia materiału w trakcie odkształcenia
+b
+337. Gniot krytyczny w procesach przeróbki plastycznej na zimno to takie odkształcenie, które prowadzi do:
+a) pęknięcia materiału w trakcie odkształcania
+b) znacznego rozrostu ziarna w procesie wyżarzania rekrystalizującego
+c) wystąpienia znacznej chropowatości powierzchni materiału
+b
+338. Wyprzedzenie w procesie walcowania to zjawisko polegające na tym, że:
+a) metal przylega do powierzchni walców i posiada prędkość równą ich prędkości obwodowej
+b) metal wychodzi z walców z prędkością większą niż prędkość obwodowa walców
+c) metal wchodzi w walce z prędkością większą od prędkości obwodowej walców
+b
+339. Jaki jest wpływ średnicy walców na nacisk średni w kotlinie walcowniczej?
+a) zmniejszenie średnicy walców obniża nacisk średni
+b) zmniejszenie średnicy walców podwyższa nacisk średni
+c) średnica walców nie ma wpływu na nacisk średni
+a
+340. Jaki jest wpływ tarcia na nacisk średni w kotlinie walcowniczej?
+a) tarcie nie ma wpływu na nacisk średni
+b) wzrost tarcia powoduje wzrost nacisku średniego
+c) wzrost tarcia powoduje obniżenie nacisku średniego
+b
+341. Walcownie bruzdowe służą do walcowania:
+a) wyrobów płaskich – blach grubych, blach cienkich
+b) rur bez szwu
+c) wyrobów długich – prętów, kształtowników, walcówki
+c
+342. Walcarki kwarto (posiadające 2 walce robocze i 2 walce oporowe) służą do walcowania:
+a) blach i taśm
+b) prętów i kształtowników
+c) rur bez szwu
+a
+343. Walcownia ciągła jest to taka walcownia:
+a) w której materiał walcowany jest we wszystkich klatkach walcowniczych równocześnie
+b) w której występuje ciągła wymiana klatek walcowniczych
+c) która jest bezpośrednio połączona z ciągłym odlewaniem materiału
+a
+344. Walcarki dwudziestowalcowe służą do walcowania:
+a) blach taśmowych na zimno
+b) drobnych kształtowników
+c) obręczy i kół bosych
+a
+345. Po procesie walcowania na zimno blach ze stali niestopowych stosuje się najczęściej obróbkę cieplną tych blach polegającą na:
+a) wyżarzaniu rekrystalizującym
+b) hartowaniu
+c) przesycaniu
+a
+346. Piece kołpakowe na walcowni zimnej blach służą do:
+a) nagrzewania kręgów blachy przed walcowaniem
+b) ulepszania cieplnego blach
+c) wyżarzania rekrystalizującego blach po walcowaniu
+c
+347. Przed procesem walcowania blach na zimno materiał podlega wytrawianiu w celu:
+a) usunięcia chropowatości i wad powierzchniowych materiału
+b) usunięcia z powierzchni warstwy tlenków
+c) pasywacji powierzchni blach
+b
+348. Wygładzanie blach, czyli operacja walcowania blach stalowych z bardzo małym gniotem (mniejszym od 5%) po operacji wyżarzania rekrystalizującego ma na celu:
+a) podniesienie własności wytrzymałościowych materiałów
+b) likwidację fizycznej granicy plastyczności materiałów
+c) usunięcie nierówności oraz nadanie żądanej grubości blachy
+b
+349. Tłoczność blach ocenia się najczęściej wykonując:
+a) próbę spęczania
+b) próbę Erichsena
+c) pomiar chropowatości
+b
+350. Podstawowe operacje tłoczenia wykonuje się wykorzystując następujące maszyny:
+a) prasy mechaniczne i prasy hydrauliczne
+b) młoty
+c) walcarki wielowalcowe
+a
+351. Jaką rolę spełnia dociskacz w procesach wytłaczania:
+a) przeciwdziała fałdowaniu się wytłaczanego materiału
+b) poprawia jakość powierzchni wytłoczki
+c) obniża siłę wytłaczania
+a
+352. Operację kucia matrycowego wykonuje się na następujących maszynach (urządzeniach):
+a) młoty i prasy
+b) walcarki kuźnicze
+c) kowarki
+a
+353. Jaką rolę spełnia wypływka w procesie kucia matrycowego?
+a) stanowi magazyn nadmiernego materiału, ułatwia wypełnienie wykroju
+b) obniża nacisk prasy
+c) poprawia własności kutego materiału
+a
+354. Wielkość prasy hydraulicznej przeznaczonej do operacji kucia jest określana przez:
+a) wysokość podniesienia kowadła górnego
+b) wielkość siły nacisku
+c) wymiary stołu walcowego
+b
+355. W procesie wyciskania współbieżnego i przeciwbieżnego występuje stan naprężeń, który:
+a) obniża plastyczność wyciskanych materiałów
+b) zwiększa plastyczność wyciskanych materiałów
+c) nie ma wpływu na plastyczność wyciskanych materiałów
+b
+356. Oczko ciągadła wykonane jest najczęściej z następującego materiału:
+a) stal węglowa
+b) spiekany węglik wolframu
+c) spiekany korund
+b
+357. Techniczny diament naturalny oraz diament syntetyczny wykorzystywany jest do wyrobu:
+a) walców roboczych walcowni zimnych
+b) wkładek matrycowych w procesach kucia dokładnego
+c) oczek ciągadeł
+c
+358. Zabieg patentowania stosuje się w technologii wytwarzania:
+a) rur
+b) prętów zbrojeniowych
+c) drutów
+c
+359. Druty stalowe bardzo cienkie ciągnie się na :
+a) mokrociągach
+b) agregatach ciągarskich
+c) ciągarkach ławowych
+a
+360. Moduł Younga jest własnością:
+a) mocno zależną od mikrostruktury
+b) niezależną od temperatury
+c) słabo zależną od mikrostruktury
+c
+361. Granica plastyczności:
+a) słabo zależy od mikrostruktury
+b) mocno zależy od mikrostruktury
+c) jest niezależna od temperatury
+b
+362. Granica plastyczności jest wyznaczana w próbie:
+a) rozciągania
+b) udarności
+c) twardości
+a
+363. W niskiej temperaturze w stan kruchy przechodzą metale o strukturze krystalicznej:
+a) regularnej ściennie centrowanej umocnionej przez rozdrobnienie ziarna
+b) regularnej przestrzennie centrowanej
+c) regularnej ściennie centrowanej
+b
+364. Który z mechanizmów umocnienia jednocześnie zwiększa granicę plastyczności i obniża temperaturę przejścia w stan kruchy metali o strukturze regularnej przestrzennie centrowanej:
+a) rozdrobnienie ziarna
+b) umocnienie cząstkami innej fazy
+c) umocnienie dyslokacyjne (odkształceniowe)
+a
+365. Rozdrobnienie ziarna w stopie powoduje:
+a) obniżenie szybkości pełzania
+b) zwiększenie granicy plastyczności
+c) zmniejszenie granicy plastyczności
+b
+366. Korzystne do zastosowań wysokotemperaturowych są materiały o:
+a) drobnym ziarnie
+b) niskiej temperaturze topnienia
+c) dużym ziarnie
+c
+367. Korzystne do zastosowań niskotemperaturowych są stopy o:
+a) drobnym ziarnie
+b) dużym ziarnie
+c) wysokiej temperaturze topnienia
+a
+368. Ogólnie ze wzrostem wytrzymałości w wyniku umocnienia ciągliwość (plastyczność):
+a) zwiększa się
+b) zmniejsza się
+c) nie zmienia się
+b
+369. Korzystnym mechanizmem umocnienia stali na konstrukcje jest umocnienie:
+a) przez rozdrobnienie ziarna
+b) dyslokacyjne
+c) roztworowe węglem
+a
+370. Przyrząd Vickersa służy do pomiaru:
+a) twardości
+b) granicy plastyczności
+c) udarności
+a
+371. Próba rozciągania służy do wyznaczenia:
+a) pracy łamania
+b) granicy plastyczności
+c) temperatury przejścia materiału w stan kruchy
+b
+372. Odkształcenie jest odpowiedzią materiału na:
+a) przyłożone obciążenie
+b) umocnienie dyslokacyjne
+c) agresywne działanie środowiska
+a
+373. Ogólnie największy moduł Younga mają:
+a) metale
+b) polimery
+c) ceramiki
+c
+374. Dużym odkształceniem sprężystym charakteryzują się:
+a) polimery termoplastyczne
+b) polimery termoutwardzalne
+c) elastomery (gumy)
+c
+375. Metale podczas odkształcania w niskiej temperaturze umacniają się, gdyż:
+a) zwiększa się gęstość dyslokacji
+b) następuje rozdrobnienie ziarna
+c) zwiększa się gęstość wydzieleń
+a
+376. Duże umocnienie roztworowe stali powodują atomy:
+a) różnowęzłowe (substytucyjne)
+b) międzywęzłowe
+c) chromu
+b
+377. Ogólnie dużą odpornością na pękanie (KIc) charakteryzują się:
+a) stopy metali
+b) ceramiki
+c) polimery
+a
+378. Materiałami ogniotrwałymi są:
+a) polimery
+b) ceramiki
+c) metale
+b
+379. Dyslokacje są defektami struktury krystalicznej:
+a) liniowymi (jednowymiarowymi)
+b) powierzchniowymi (dwuwymiarowymi)
+c) punktowymi (zerowymiarowymi)
+a
+380. Odkształcenie plastyczne metali następuje podczas przemieszczania się:
+a) granic ziarn
+b) dyslokacji
+c) defektów punktowych
+b
+381. Równowagowe stężenie defektów punktowych:
+a) zwiększa się ze wzrostem temperatury
+b) zmniejsza się ze wzrostem temperatury
+c) jest niezależne od temperatury
+a
+382. Płaszczyzna poślizgu i leżący w niej kierunek poślizgu:
+a) tworzą system poślizgu
+b) są parametrami bliżniakowania
+c) określają długość wektora Burgersa
+a
+383. Podstawowym mechanizmem umocnienia martenzytu w stali jest umocnienie:
+a) cząstkami innej fazy
+b) roztworowe
+c) poprzez rozdrobnienie ziarna
+b
+384. Korzystnym mechanizmem umocnienia metali stosowanych w wysokiej temperaturze jest umocnienie:
+a) roztworowe
+b) poprzez rozdrobnienie ziarna
+c) dyslokacyjne (odkształceniowe)
+a
+385. Odkształcaniu przez bliżniakowanie sprzyja:
+a) wysoka temperatura odkształcania
+b) niska temperatura odkształcania
+c) małe ziarno odkształcanego materiału
+b
+386. Wytrzymałość ceramik:
+a) jest dużo większa na ściskanie niż na rozciąganie
+b) na rozciąganie i na ściskanie jest taka sama
+c) jest dużo większa na rozciąganie niż na ściskanie
+a
+387. Własności wytrzymałościowe kompozytów z włóknami ciągłymi są:
+a) anizotropowe
+b) izotropowe
+c) na rozciąganie i na ściskanie takie same
+a
+388. Ogólnie twardość metali:
+a) maleje ze wzrostem wytrzymałości
+b) zwiększa się ze wzrostem wytrzymałości
+c) jest niezależna od wytrzymałości
+b
+389. Siłą pędną rekrystalizacji pierwotnej jest:
+a) energia defektów punktowych utworzonych podczas odkształcania
+b) energia dyslokacji zmagazynowanych podczas odkształcania
+c) energia granic ziarn
+b
+390. Ekstensometr jest przyrządem:
+a) do pomiaru zmian wymiarów liniowych (odkształceń liniowych) w próbie rozciągania
+b) odpowiedzialnym za rejestrowanie sił działających na rozciąganą próbkę
+c) do pomiaru przewężenia w próbie rozciągania
+a
+391. Anizotropia normalna:
+a) pozwala na nadawanie złożonych kształtów wyrobom z blach głębokotłocznych
+b) nie ma związku z teksturą tłoczonej blachy
+c) jest zjawiskiem negatywnym i wpływa na wielkość wad powstałych w trakcie tłoczenia
+a
+392. Twardość:
+a) jest stałą charakteryzującą dany materiał
+b) ogólnie jest związana z wytrzymałością na rozciąganie Rm
+c) można zmierzyć tylko dla materiałów miękkich
+b
+393. Osnowa w stopie umacnianym dyspersyjnie:
+a) jest fazą ciągłą stanowiącą znaczną jego objętość
+b) powinna być znacznie twardsza niż występujące w niej cząstki
+c) jest odpowiedzialna za jego umocnienie
+a
+394. W trakcie jednoosiowego rozciągania mosiężnej próbki wytrzymałościowej:
+a) stop odkształca się jedynie sprężyście
+b) obserwuje się zarówno wzrost wytrzymałości jak i plastyczności stopu
+c) po przekroczeniu Rm naprężenie rzeczywiste gwałtownie maleje
+c
+395. Od czego zależy współczynnik emisji elektronów wtórnych w SEM?
+a) kąta padania elektronów pierwotnych i napięcia przyspieszającego elektrony
+b) liczby atomowej pierwiastka
+c) średnicy wiązki elektronów
+a
+396. Które elektrony analizowane w SEM tworzą kontrast fazowy?
+a) elektrony wstecznie rozproszone - BSE
+b) elektrony wtórne - SE
+c) elektrony przechodzące
+a
+397. Jaka technika umożliwia analizę orientacji krystalograficznej w SEM ?
+a) BSE
+b) EBSD
+c) EDS
+b
+398. Kontrast rozproszeniowy w TEM zależy od:
+a) gęstości defektów struktury
+b) sieci krystalicznej
+c) zmiany grubości i gęstości preparatu
+c
+399. Technika jasnego i ciemnego pola w TEM wykorzystuje kontrast:
+a) rozproszeniowy
+b) dyfrakcyjny
+c) interferencyjny
+b
+400. Dyfraktogram elektronowy pozwala na:
+a) określenie struktury i orientacji krystalograficznej kryształu
+b) wyznaczenia wektora translacji
+c) określenia parametru sieci
+a
+401. Badania faktograficzne przełomów prowadzone są za pomocą:
+a) WDS
+b) STEM
+c) SEM
+c
+402. Zdolność rozdzielcza transmisyjnej mikroskopii elektronowej jest rzędu:
+a) mikrometrów
+b) dziesiątych nanometra
+c) kilku nanometrów
+b
+403. Spektroskopia elektronów Augera (AES) pozwala na:
+a) analizę jonów pierwiastków
+b) analizę jakościową pierwiastków oraz stanu chemicznego atomów
+c) analizę ilościowa pierwiastków ciężkich
+b
+404. Spektroskopia masowa jonów wtórnych SIMS umożliwia analizę:
+a) składu chemicznego próbki do głębokości 100μm
+b) molekularną i elementarną pierwszej warstwy badanej struktury oraz zawartości pierwiastków śladowych w głębszych warstwach
+c) energii wiązań atomów
+b
+405. Co daje zjawisko Mössbauera?
+a) pomiar rezystywności materiału
+b) pozwala na penetrację wnętrza atomu i uzyskiwania informacji o warunkach, w jakich znajduje jądro atomowe
+c) pomiar koercji
+b
+406. Mikroskop sił atomowych AFM umożliwia badanie:
+a) powierzchni przełomów
+b) powierzchni przewodników, półprzewodników, izolatorów, preparatów biologicznych
+c) powierzchni próbek metalicznych
+b
+407. Promieniowanie synchrotronowe charakteryzuje się:
+a) bardzo dużym natężeniem, niezwykle małą rozbieżnością oraz ciągłym rozkładem widma w szerokim zakresie energii
+b) małym natężeniem, oraz ciągłym rozkładem widma w wąskim zakresie energii
+c) dużą rozbieżnością dużym natężeniem
+a
+408. Spektroskopia strat energii elektronów EELS opiera się na:
+a) analizie rozkładu energii elektronów, które doznały sprężystego rozproszenia w próbce
+b) analizie rozkładu energii elektronów, które doznały niesprężystego rozproszenia w próbce
+c) analizie rozkładu energii elektronów odbitych od próbki
+b
+409. Spektroskopia jonów rozproszonych ISS pozwala uzyskać informacje o:
+a) rodzaju atomu, wzajemnym położeniu atomów, defektach powierzchni
+b) stopniu zjonizowania atomów
+c) liczbie elektronów na powłoce walencyjnej
+a
+410. Mikroskop metalograficzny to:
+a) Mikroskop działający za zasadzie światła odbitego
+b) Mikroskop elektronowy do badania metali i stopów
+c) Mikroskop świetlny do obserwacji przy dużych powiększeniach
+a
+411. Różnicowa kalorymetria skaningowa DSC pozwala:
+a) określić ciepło przemiany lub ciepło właściwe
+b) określić skład fazowy próbki
+c) określić temperatury przemian fazowych
+a
+412. Na podstawie współczynnika rozszerzalności liniowej można wnioskować o:
+a) sile wiązań międzyatomowych
+b) rezystywności
+c) przewodnictwie cieplnym
+a
+413. Temperatury charakterystyczne Ac1p, Ac1k i Ac3 to temperatury przemian podczas nagrzewania dla stali:
+a) eutektoidalnych
+b) nadeutektoidalnych
+c) podeutektoidalnych
+c
+414. Zastosowanie wzorcowej próbki jest konieczne w dylatometrach:
+a) indukcyjnych
+b) różnicowych
+c) bezwzględnych
+b
+415. Pomiar parametru NA (liczność względna ziarn) metodą Jeffriesa obejmuje:
+a) Łączne zliczanie ziarn będących wewnątrz obszaru pomiarowego i ziarn przeciętych przez jego brzeg
+b) Oddzielne zliczanie ziarn będących wewnątrz obszaru pomiarowego i ziarn przeciętych przez jego brzegi
+c) Zliczanie ziarn wewnątrz obszaru testowego i ich uszeregowanie
+b
+416. Co to jest tarcie wewnętrzne?
+a) Rozproszenie energii mechanicznej w wyniku zmian wymiarów próbki pod wpływem naprężenia zewnętrznego
+b) rozproszenie energii mechanicznej na skutek występowania w metalu efektów relaksacyjnych(niesprężystych)
+c) To całość zjawisk fizycznych towarzyszących przemieszczaniu się względem siebie dwóch ciał fizycznych i rozpraszających energie podczas ruchu
+b
+417. Wysokość piku Snoeka pozwala określić:
+a) koncentrację wolnych atomów międzywęzłowych węgla i azotu w ferrycie
+b) wielkość odkształcenia próbki wywołanego przyłożonym naprężeniem zewnętrznym
+c) całkowitą koncentrację atomów międzywęzłowych w stali
+a
+418. Podczas postępu rekrystalizacji pole koercji:
+a) maleje
+b) rośnie
+c) jest stałe
+a
+419. Ferryt w stalach wykazuje własności ferromagnetyczne:
+a) poniżej temperatury A3
+b) poniżej temperatury Curie
+c) poniżej temperatury homologicznej
+b
+420. Termograwimetria (TGA) jest techniką, w której rejestruje się:
+a) zmiany masy próbki i jej rezystywności w funkcji temperatury
+b) zmianę masy próbki w funkcji temperatury
+c) zmiany wydłużenia próbki w funkcji temperatury
+b
+421. Jaką metodę badawczą zastosujesz żeby określić mechanizm rozprzestrzeniania się pęknięcia w materiale?
+a) Tarcie wewnętrzne
+b) Skaningową mikroskopię elektronową
+c) Tomografie elektronową
+b
+422. Na dyfraktogramie elektronowy otrzymałeś okręgi – świadczy to o tym, że miałeś do czynienia z materiałem:
+a) amorficznym
+b) proszkowym lub bardzo drobnokrystalicznym
+c) grubokrystalicznym
+b
+423. Chcesz badać powierzchnię nie przewodzącą lub słabo przewodzącą elektrony za pomocą SEM – co zrobisz?
+a) Nie wykonam badania
+b) Naparuję powierzchnię substancją przewodzącą
+c) Nie stanowi to żadnej przeszkody do wykonania badania
+c
+424. Na zdjęciu z SEM obserwujesz tzw. dorzecza. Z jakim mechanizmem pękania mamy do czynienia?:
+a) pękaniem zmęczeniowym
+b) pękaniem kruchym
+c) pękaniem ciągliwym
+b
+425. Na krzywej dylatometrycznej zaobserwowano przy nagrzaniu do temperatury topnienia jedynie jeden przystanek. Świadczy to o:
+a) braku przemian alotropowych w badanym materiale
+b) braku przemian fazowych w badanym materiale
+c) braku przemian fazowych i alotropowych w badanym materiale
+c
+426. Wymień kolejne etapy przygotowania zgładu metalograficznego do obserwacji za pomocą mikroskopu metalograficznego.
+a) Wycinanie piłami mechanicznymi, polerowanie za pomocą polerek metalograficznych, szlifowanie na bardzo drobnym papierze ściernym
+b) Polerowanie elektrolityczny, inkludowanie w żywicach syntetycznych, polerowanie za pomocą szlifierek metalograficznych
+c) Wycięcie, szlifowanie tarczami szlifierskimi, szlifowanie na mokro na papierach ściernych, polerowanie za pomocą ścierniwa na płótnach polerskich
+c
+427. Na zdjęcia jednofazowej mikrostruktury płaskiej o całkowitym powiększeniu g = 500, rzucono losowo 10 siecznych o długości L = 100 mm. Średnia liczba przecięć siecznych z granicami ziarn wyniosła P(L)  5 . Ile wynosi powierzchnia względna SV granic ziarn badanej mikrostruktury
+a) 0,05 mm-1
+b) 25 mm-1
+c) 50 mm-1
+c
+428. Na zdjęcia mikrostruktury stopu dwufazowego  + rzucono losowo k = 10 razy siatkę pomiarową o n = 100 węzłach. Średnia liczba węzłów należących do fazy  P   12 . W celu oszacowania bezwzględnego błędu granicznego metody  przyjęto u  2. Obliczony błąd bezwzględny graniczny  metody pomiaru VV (objętości względnej) wynosi
+a) 0,02
+b) 0,05
+c) 0,1
+a
+429. W procesie normalizowania rozdrobnienie ziarna następuje w czasie:
+a) wygrzewania w temperaturze 30-50oC powyżej Ac3
+b) nagrzewania do temperatury 30-50oC powyżej Ac3
+c) chłodzenia od temperatury normalizowania
+b
+430. Patentowanie to operacja obróbki cieplnej, w wyniku której otrzymuje się:
+a) bardzo drobny perlit
+b) perlit gruby
+c) bainit
+a
+431. Stale gruboziarniste to:
+a) stale, w których podczas nagrzewania po przemianie  następuje stopniowy wzrost wielkości ziaren austenitu
+b) stale, w których wielkość ziaren jest większa od 50m
+c) stale, w których wielkość ziaren jest większa od 100m
+a
+432. Sorbit to struktura powstała w czasie:
+a) hartowania izotermicznego
+b) odpuszczania stali
+c) wyżarzania zupełnego
+b
+433. Ulepszanie cieplne to:
+a) połączony zabieg hartowania i odpuszczania
+b) nagrzewanie do temperatury 30-50oC powyżej Ac3 wygrzanie przez 15 min. i chłodzenie z piecem
+c) połączony zabieg przesycania i starzenia
+a
+434. Twardość wtórna to:
+a) wzrost twardości w czasie starzenia stali po przesycaniu
+b) wzrost twardości w czasie odkształcenia plastycznego na zimno
+c) wzrost twardości w czasie odpuszczania stali po hartowaniu
+c
+435. Hartowność stali wzrasta ze wzrostem zawartości:
+a) krzemu, kobaltu i molibdenu
+b) chromu, niklu i manganu
+c) aluminium i wolframu
+b
+436. Po ulepszaniu cieplnym w porównaniu ze stanem po normalizowaniu udarność stali jest:
+a) nie zmienia się
+b) wyższa
+c) niższa
+b
+437. Po nawęglaniu stale są:
+a) hartowane i wysoko odpuszczane
+b) hartowane i nisko odpuszczane
+c) hartowane bez odpuszczania
+b
+438. Wyżarzanie zupełne to:
+a) nagrzanie do temperatury 30-50oC powyżej Ac3 i Acm, wygrzanie i chłodzenie z piecem
+b) nagrzanie do temperatury 30-50oC powyżej Ac3 i Acm, wygrzanie i chłodzenie na powietrzu
+c) nagrzanie do temperatury 30-50oC powyżej Ac3 i Acm, wygrzanie i dowolne chłodzenie
+a
+439. Celem wyżarzania rekrystalizującego jest:
+a) uzyskanie jednorodnego drobnego ziarna po przemianie perlitu w austenit
+b) usunięcie skutków umocnienia powstałego w wyniku przeróbki plastycznej na zimno
+c) uzyskanie jednorodnego drobnego ziarna po przemianie austenitu w perlit
+b
+440. Przemiana bezdyfuzyjna to przemiana, w której:
+a) współczynnik dyfuzji węgla w żelazie jest równy zero, natomiast współczynniki dyfuzji pierwiastków substytucyjnych w żelazie są większe od zera
+b) współczynniki dyfuzji węgla w żelazie i pierwiastków substytucyjnych w żelazie są większe od zera
+c) współczynniki dyfuzji węgla w żelazie i pierwiastków substytucyjnych w żelazie są równe zero
+c
+441. Po azotowaniu:
+a) stosuje się ulepszanie cieplne
+b) nie stosuje się obróbki cieplnej
+c) stosuje się przesycanie i starzenie
+b
+442. Po hartowaniu:
+a) objętość próbki zmniejsza się,
+b) objętość próbki nie zmienia się
+c) objętość próbki zwiększa się,
+c
+443. Przy spawaniu łukiem krytym:
+a) operator nie stosuje ochrony oczu przed promieniowaniem
+b) stosuje okulary ochronne przed rozpryskami ciekłego metalu
+c) stosuje okulary ochronne przed promieniowaniem UV
+a
+444. Przy spawaniu elektrożużlowym spoina powstaje w wyniku:
+a) stapiania materiału spawanego i spoiwa ciepłem powstałym w wyniku przepływu prądu przez ciekły żużel
+b) stapiania materiału spawanego i spoiwa ciepłem łuku elektrycznego w osłonie żużlowej
+c) stapiania materiału spawanego i spoiwa ciepłem łuku elektrycznego w osłonie gazowej
+a
+445. Przy spawaniu elektrogazowym spoina powstaje w wyniku:
+a) stapiania materiału spawanego i spoiwa ciepłem powstałym w wyniku przepływu prądu przez ciekły żużel
+b) stapiania materiału spawanego i spoiwa ciepłem powstałym w wyniku spalania mieszanki gazowej
+c) stapiania materiału spawanego i spoiwa ciepłem łuku elektrycznego w osłonie gazowej
+c
+446. Elektrodami zasadowymi należy spawać prądem:
+a) dowolnym
+b) stałym
+c) przemiennym
+b
+447. Łukiem wirującym można spawać elementy o kształtach:
+a) pręty
+b) pierścieni
+c) dowolnych
+b
+448. Zgrzewanie kompresyjne to zgrzewanie:
+a) z wykorzystaniem drgań ultradźwiękowych
+b) z wykorzystaniem prądu elektrycznego i docisku
+c) z wykorzystaniem drgań ultradźwiękowych i prądu elektrycznego
+b
+449. Własności zgrzeiny otrzymane w procesie zgrzewania iskrowego w porównaniu ze zgrzeiną otrzymaną przy zgrzewaniu zwarciowym są:
+a) lepsze
+b) gorsze
+c) takie same
+a
+450. Zgrzewanie zgniotowe stosujemy do łączenia:
+a) miedzi
+b) aluminium
+c) stali
+b
+451. Zgrzewanie wybuchowe stosujemy do:
+a) łączenia doczołowego prętów
+b) platerowania blach
+c) łączenia doczołowego blach
+b
+452. Przy zgrzewaniu tarciowym ciepło wydziela się:
+a) w wyniku przepływu prądu elektrycznego,
+b) w wyniku zamiany pracy na ciepło,
+c) w wyniku tworzenia mikrołuków między łączonymi elementami
+b
+453. Zgrzewanie dyfuzyjne prowadzi się w:
+a) w atmosferze ochronnej azotu
+b) w atmosferze ochronnej helu
+c) w próżni
+c
+454. Spawanie atomowe to:
+a) spawanie łukiem pośrednim w atmosferze wodoru
+b) spawanie łukiem bezpośrednim w atmosferze helu
+c) spawanie łukiem pośrednim w atmosferze argonu
+a
+455. Przy spawaniu termitowym ciepło wydziela się w wyniku:
+a) reakcji chemicznej tlenku i metalu
+b) przepływu prądu przez opór w miejscu styku elementów
+c) jarzenia łuku elektrycznego
+a
+456. Rola topnika w procesie lutowania to:
+a) obniżenie temperatury topnienia lutu
+b) obniżenie temperatury topnienia lutu i ochrona powierzchni ciekłego lutu przed utlenianiem
+c) usunięcie tlenków z powierzchni i polepszenie zwilżalności powierzchni przez lut
+c
+457. Złącze lutowane ma najlepsze własności wytrzymałościowe i plastyczne gdy między lutem a metalem wystąpi połączenie:
+a) powstanie związek międzymetaliczny
+b) dyfuzyjne
+c) adhezyjne
+b
+458. Metoda spawania GTAW (TIG) to:
+a) spawanie metodą topliwą w osłonie argonu
+b) spawanie elektrodą nietopliwą w osłonie argonu
+c) spawanie metodą nietopliwą w osłonie CO2
+b
+459. Podaj, który z procesów obróbki powierzchniowej wymaga koniecznie stosowania próżni:
+a) hartowanie laserowe
+b) hartowanie plazmowe
+c) hartowanie elektronowe
+c
+460. Metalizowanie dyfuzyjne polega na:
+a) malowaniu farbami zawierającymi proszki metali
+b) obróbce cieplno-chemicznej w środowisku zawierającym pary metali
+c) elektrolitycznym osadzaniu warstw na powierzchni materiału
+b
+461. Stale poddawane azotowaniu znajdują się w stanie:
+a) po normalizowaniu
+b) po wyżarzaniu zmiękczającym
+c) po ulepszaniu cieplnym
+c
+462. Dla zapewnienia dobrej odporności korozyjnej, powierzchnię stali azotowanej w której na powierzchni wytworzyła się warstewka miękkiego azotku  poddaje się:
+a) pozostawia w stanie niezmienionym
+b) polerowaniu i trawieniu
+c) szlifowaniu
+a
+463. Podaj, który z akronimów określa proces wytwarzania cienkich warstw, z wykorzystaniem reakcji chemicznych, przebiegający przy ciśnieniu atmosferycznym:
+a) PACVD
+b) LPCVD
+c) APCVD
+c
+464. Podaj, który związek powstanie na powierzchni narzędzi wykonanych ze stali zawierających 0,8% węgla, kiedy stosując technikę APCVD proces prowadzony jest przy temperaturze 1253K, w atmosferze zawierającej TiCl4+H2 +N2, przy ciśnieniu 10hPa:
+a) TiC
+b) Ti(C,N)
+c) TiN
+a
+465. Efekt oddziaływania promieniowania laserowego na materiał zależy głównie od:
+a) współczynnika absorpcji powierzchni obrabianego materiału i szybkości skanowania
+b) gęstości mocy zaabsorbowanego promieniowania laserowego i czasu jego oddziaływania na materiał
+c) mocy wiązki laserowej wygenerowanej przez laser i czasu jego oddziaływania na materiał
+b
+466. Współczynnik absorpcji materiałów metalicznych dla wiązki elektronów, jest w porównaniu do współczynnika absorpcji promieniowania laserowego:
+a) wyższy
+b) porównywalny
+c) niższy
+a
+467. W celu zapewnienia stali wysokiej twardości i odporności na ścieranie:
+a) stal nawęgla się po uprzednim jej zahartowaniu
+b) stal po nawęglaniu hartuje się i nisko odpuszcza
+c) stal po nawęglaniu poddaje się ulepszaniu cieplnemu
+b
+468. Dla wytworzenia TiN na materiałach ceramicznych np. Al2O3, techniką CVD w atmosferze TiCl4+N2, potrzebna jest w komorze obecność:
+a) katody Fe
+b) Katody Ti
+c) Anody Ti
+a
+469. W procesie implantacji głębokość wnikania jonów azotu w materiał wynosi:
+a) 1 – 4 µm
+b) 10-20 µm
+c) 0,1-1 µm
+c
+470. Promień zakrzywienia jonów, w separatorze jonów wykorzystywanym w procesie implantacji, określona jest zależnością:
+a) R = mV/eB
+b) R= mB/Ve
+c) R= eB/mV
+a
+471. W technice PVD z wykorzystaniem zjawiska rozpylania (sputtering) wykorzystuje się:
+a) argon
+b) tlen
+c) azot
+a
+472. Pary metali w procesie PVD można otrzymać przez odparowanie: oporowe; elektronowe; plazmowe; laserowe; indukcyjne. Podaj, która z odpowiedzi jest prawdziwa?
+a) stosując tylko odparowanie oporowe lub indukcyjne
+b) stosując tylko odparowanie elektronowe lub laserowe
+c) stosując dowolny z wymienionych sposobów odparowania
+c
+473. Do pokrywania walców drukarskich w przemyśle poligraficznym wykorzystuje się proces elektrolitycznego:
+a) niklowania
+b) chromowania
+c) miedziowania
+c
+474. Która z wymienionych powłok ma charakter powłoki anodowej:
+a) Zn
+b) Sn
+c) Cu
+a
+475. Która z wymienionych powłok ma charakter powłoki katodowej:
+a) Sn
+b) Zn
+c) Al
+a
+476. W którym procesie natryskiwania uzyskuje się najwyższą adhezję powłok do podłoża:
+a) natryskiwanie plazmowe
+b) natryskiwanie naddźwiękowe zimnym gazem
+c) natryskiwanie naddźwiękowe
+a
+477. W którym z wymienionych procesów uzyskuje się najwyższą adhezję powłok do podłoża:
+a) naparowanie techniką PVD
+b) napawanie
+c) natryskiwanie naddźwiękowe
+b
+478. Który z procesów natryskiwania pozwala uzyskać najwyższą gęstość natryskiwanych powłok:
+a) natryskiwanie detonacyjne
+b) natryskiwanie plazmowe
+c) natryskiwanie gazowe
+a
+479. Fosforanowanie nie jest stosowane jako proces zapewniający materiałom:
+a) ochronę czasową
+b) trwałą ochronę antykorozyjną
+c) ochronę czasową oraz jako warstwy podkładowe
+b
+480. Oksydowanie materiałów polega na wytworzeniu na powierzchni materiału tlenku:
+a) Al2O3
+b) Fe3O4
+c) CrO3
+b
+481. Podaj, z jakiego powodu w procesie nawęglania maksymalna koncentracja węgla w warstwie nawęglonej nie powinna przekraczać 0,8%C:
+a) ze względu na obecność austenitu szczątkowego
+b) ze względu na obecność austenitu szczątkowego i siatki węglików
+c) ze względu na obecność siatki węglików
+b
+482. W procesie napawania powłok techniką napawania elektrodą otuloną:
+a) metaliczne dyfuzyjne
+b) połączenie mechaniczne
+c) adhezyjne
+a
+483. Podaj, którym z mechanizmów umocnienia materiałów tłumaczy się wzrost twardości warstwy wierzchniej stali poddanej śrutowaniu:
+a) umocnienia dyslokacyjnego
+b) umocnienia roztworowego
+c) umocnienia wydzieleniowego
+a
+484. Stan naprężeń ściskających w warstwie wierzchniej stali uzyskujemy w wyniku:
+a) laserowego hartowania przetopieniowego
+b) elektronowego hartowania przetopieniowego
+c) hartowania indukcyjnego
+c
+485. Która z powłok otrzymywanych techniką PVD charakteryzuje się najwyższą twardością:
+a) TiAlN
+b) CrN
+c) WC/C
+a
